@@ -1,0 +1,473 @@
+{
+    "success": true,
+    "data": {
+        "event": {
+            "id": "693abbcc20ff8ee70a5ca6b2",
+            "code": "swine_continuum_pe",
+            "title": {
+                "en": "Swine Continuum",
+                "es": "Continuo Porcino",
+                "pt": "Continuum Suíno"
+            },
+            "description": {
+                "en": "Travel the continuum and uncover treasures hidden in time.",
+                "es": "Viaja por el continuo y descubre tesoros ocultos en el tiempo.",
+                "pt": "Viaje pelo continuum e descubra tesouros escondidos no tempo."
+            },
+            "endDate": "2025-12-14T23:59:59.999Z",
+            "maxMultiplier": 10000,
+            "maxLevel": 20,
+            "media": {
+                "backgroundImageURL": {
+                    "en": "https://static.chainers.io/media/progressionEvents/swine_continuum_pe/topImageEn.png?v=1.0",
+                    "es": "https://static.chainers.io/media/progressionEvents/swine_continuum_pe/topImageEs.png?v=1.0",
+                    "pt": "https://static.chainers.io/media/progressionEvents/swine_continuum_pe/topImagePt.png?v=1.0"
+                }
+            }
+        },
+        "rewards": [
+            {
+                "code": "pe_reward08122025_1",
+                "requiredLevel": 1,
+                "count": 1,
+                "itemID": "693abbcb20ff8ee70a5ca5eb",
+                "itemCode": "pe_reward08122025_1",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "CARDBOARD PLOT",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/basic/common/preview.png?v=1708363019810",
+                    "previewCount": "1",
+                    "previewDescription": "",
+                    "color": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "pe_reward08122025_2",
+                "requiredLevel": 2,
+                "count": 1,
+                "itemID": "693abbcb20ff8ee70a5ca5ed",
+                "itemCode": "pe_reward08122025_2",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "GROWTH FERTILIZER",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/common/preview.png?v=1709042580935",
+                    "previewCount": "5",
+                    "previewDescription": "",
+                    "color": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "pe_reward08122025_3",
+                "requiredLevel": 3,
+                "count": 1,
+                "itemID": "693abbcb20ff8ee70a5ca5ef",
+                "itemCode": "pe_reward08122025_3",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "TOMATO SEED",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/tomato/uncommon/preview.png?v=1765456735579",
+                    "previewCount": "1",
+                    "previewDescription": "",
+                    "color": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "pe_reward08122025_4",
+                "requiredLevel": 4,
+                "count": 1,
+                "itemID": "693abbcb20ff8ee70a5ca5f1",
+                "itemCode": "pe_reward08122025_4",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Cucumber seed",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/cucumber/rare/preview.png?v=1748876842137",
+                    "previewCount": "1",
+                    "previewDescription": "",
+                    "color": ""
+                },
+                "isFeatured": true
+            },
+            {
+                "code": "pe_reward08122025_5",
+                "requiredLevel": 5,
+                "count": 1,
+                "itemID": "693abbcb20ff8ee70a5ca5f3",
+                "itemCode": "pe_reward08122025_5",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Piggy food",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/truffle/rare/preview.png?v=1765456704229",
+                    "previewCount": "5",
+                    "previewDescription": "",
+                    "color": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "pe_reward08122025_6",
+                "requiredLevel": 6,
+                "count": 1,
+                "itemID": "693abbcb20ff8ee70a5ca5f5",
+                "itemCode": "pe_reward08122025_6",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "LEGENDARY GROWTH FERTILIZER",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/legendary/preview.png?v=1752764673781",
+                    "previewCount": "10",
+                    "previewDescription": "",
+                    "color": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "pe_reward08122025_7",
+                "requiredLevel": 7,
+                "count": 1,
+                "itemID": "693abbcb20ff8ee70a5ca5f7",
+                "itemCode": "pe_reward08122025_7",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "WOOD PLOT",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/basic/uncommon/preview.png?v=1708363019810",
+                    "previewCount": "1",
+                    "previewDescription": "",
+                    "color": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "pe_reward08122025_8",
+                "requiredLevel": 8,
+                "count": 1,
+                "itemID": "693abbcb20ff8ee70a5ca5f9",
+                "itemCode": "pe_reward08122025_8",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Sunflower seed",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/sunflower/rare/preview.png?v=1732119698977",
+                    "previewCount": "1",
+                    "previewDescription": "",
+                    "color": ""
+                },
+                "isFeatured": true
+            },
+            {
+                "code": "pe_reward08122025_9",
+                "requiredLevel": 9,
+                "count": 1,
+                "itemID": "693abbcb20ff8ee70a5ca5fb",
+                "itemCode": "pe_reward08122025_9",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "TOMATO SEED",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/tomato/rare/preview.png?v=1765456735579",
+                    "previewCount": "1",
+                    "previewDescription": "",
+                    "color": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "pe_reward08122025_10",
+                "requiredLevel": 10,
+                "count": 1,
+                "itemID": "693abbcb20ff8ee70a5ca5fd",
+                "itemCode": "pe_reward08122025_10",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "GROWTH FERTILIZER",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/common/preview.png?v=1709042580935",
+                    "previewCount": "15",
+                    "previewDescription": "",
+                    "color": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "pe_reward08122025_11",
+                "requiredLevel": 11,
+                "count": 1,
+                "itemID": "693abbcb20ff8ee70a5ca5ff",
+                "itemCode": "pe_reward08122025_11",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "PLASTIC PLOT",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/basic/rare/preview.png?v=1708363019810",
+                    "previewCount": "1",
+                    "previewDescription": "",
+                    "color": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "pe_reward08122025_12",
+                "requiredLevel": 12,
+                "count": 1,
+                "itemID": "693abbcb20ff8ee70a5ca601",
+                "itemCode": "pe_reward08122025_12",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Jack pumpkin seed",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/jack_pumpkin/rare/preview.png?v=1761664507965",
+                    "previewCount": "1",
+                    "previewDescription": "",
+                    "color": ""
+                },
+                "isFeatured": true
+            },
+            {
+                "code": "pe_reward08122025_13",
+                "requiredLevel": 13,
+                "count": 1,
+                "itemID": "693abbcb20ff8ee70a5ca603",
+                "itemCode": "pe_reward08122025_13",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "TOMATO SEED",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/tomato/epic/preview.png?v=1765456735579",
+                    "previewCount": "1",
+                    "previewDescription": "",
+                    "color": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "pe_reward08122025_14",
+                "requiredLevel": 14,
+                "count": 1,
+                "itemID": "693abbcb20ff8ee70a5ca605",
+                "itemCode": "pe_reward08122025_14",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Charlotte",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/piggies/common/preview.png?v=1760615289240",
+                    "previewCount": "1",
+                    "previewDescription": "",
+                    "color": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "pe_reward08122025_15",
+                "requiredLevel": 15,
+                "count": 1,
+                "itemID": "693abbcb20ff8ee70a5ca607",
+                "itemCode": "pe_reward08122025_15",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Cucumber seed",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/cucumber/rare/preview.png?v=1748876842137",
+                    "previewCount": "1",
+                    "previewDescription": "",
+                    "color": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "pe_reward08122025_16",
+                "requiredLevel": 16,
+                "count": 1,
+                "itemID": "693abbcb20ff8ee70a5ca609",
+                "itemCode": "pe_reward08122025_16",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "STONE PLOT",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/basic/legendary/preview.png?v=1708363019810",
+                    "previewCount": "1",
+                    "previewDescription": "",
+                    "color": ""
+                },
+                "isFeatured": true
+            },
+            {
+                "code": "pe_reward08122025_17",
+                "requiredLevel": 17,
+                "count": 1,
+                "itemID": "693abbcb20ff8ee70a5ca60b",
+                "itemCode": "pe_reward08122025_17",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Peppa Prime",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/piggies/uncommon/preview.png?v=1763129500081",
+                    "previewCount": "1",
+                    "previewDescription": "",
+                    "color": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "pe_reward08122025_18",
+                "requiredLevel": 18,
+                "count": 1,
+                "itemID": "693abbcb20ff8ee70a5ca60d",
+                "itemCode": "pe_reward08122025_18",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Jacks Piggy Food",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/jack_truffle/uncommon/preview.png?v=1765456704229",
+                    "previewCount": "10",
+                    "previewDescription": "",
+                    "color": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "pe_reward08122025_19",
+                "requiredLevel": 19,
+                "count": 1,
+                "itemID": "693abbcb20ff8ee70a5ca60f",
+                "itemCode": "pe_reward08122025_19",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Sunflower seed",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/sunflower/rare/preview.png?v=1732119698977",
+                    "previewCount": "1",
+                    "previewDescription": "",
+                    "color": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "pe_reward08122025_20",
+                "requiredLevel": 20,
+                "count": 1,
+                "itemID": "693abbcb20ff8ee70a5ca611",
+                "itemCode": "pe_reward08122025_20",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Marty McSwine",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/piggies/rare/preview.png?v=1765456665168",
+                    "previewCount": "1",
+                    "previewDescription": "max bp/min: 533",
+                    "color": ""
+                },
+                "isFeatured": false
+            }
+        ],
+        "levelsConfig": [
+            {
+                "level": 1,
+                "requiredXp": 600,
+                "levelXp": 600
+            },
+            {
+                "level": 2,
+                "requiredXp": 1000,
+                "levelXp": 400
+            },
+            {
+                "level": 3,
+                "requiredXp": 2200,
+                "levelXp": 1200
+            },
+            {
+                "level": 4,
+                "requiredXp": 4700,
+                "levelXp": 2500
+            },
+            {
+                "level": 5,
+                "requiredXp": 7000,
+                "levelXp": 2300
+            },
+            {
+                "level": 6,
+                "requiredXp": 8600,
+                "levelXp": 1600
+            },
+            {
+                "level": 7,
+                "requiredXp": 13100,
+                "levelXp": 4500
+            },
+            {
+                "level": 8,
+                "requiredXp": 22600,
+                "levelXp": 9500
+            },
+            {
+                "level": 9,
+                "requiredXp": 31500,
+                "levelXp": 8900
+            },
+            {
+                "level": 10,
+                "requiredXp": 37700,
+                "levelXp": 6200
+            },
+            {
+                "level": 11,
+                "requiredXp": 55100,
+                "levelXp": 17400
+            },
+            {
+                "level": 12,
+                "requiredXp": 91500,
+                "levelXp": 36400
+            },
+            {
+                "level": 13,
+                "requiredXp": 125500,
+                "levelXp": 34000
+            },
+            {
+                "level": 14,
+                "requiredXp": 149300,
+                "levelXp": 23800
+            },
+            {
+                "level": 15,
+                "requiredXp": 216000,
+                "levelXp": 66700
+            },
+            {
+                "level": 16,
+                "requiredXp": 356000,
+                "levelXp": 140000
+            },
+            {
+                "level": 17,
+                "requiredXp": 486700,
+                "levelXp": 130700
+            },
+            {
+                "level": 18,
+                "requiredXp": 578200,
+                "levelXp": 91500
+            },
+            {
+                "level": 19,
+                "requiredXp": 834300,
+                "levelXp": 256100
+            },
+            {
+                "level": 20,
+                "requiredXp": 1372200,
+                "levelXp": 537900
+            }
+        ]
+    }
+}
