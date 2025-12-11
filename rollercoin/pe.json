@@ -1,473 +1,835 @@
 {
-    "success": true,
-    "data": {
-        "event": {
-            "id": "693abbcc20ff8ee70a5ca6b2",
-            "code": "swine_continuum_pe",
+    "event": {
+        "_id": "69394104b13b27427ba4c4f2",
+        "max_xp": 150000,
+        "max_multiplier": 10000,
+        "max_level": 20,
+        "tag": {
+            "text": "",
+            "color": "",
+            "text_color": ""
+        },
+        "progression_event_type": "default",
+        "end_date": "2025-12-12T10:00:00.000Z",
+        "last_updated": 1765359876987,
+        "description": {
+            "en": "Progression",
+            "cn": "Progression"
+        },
+        "title": {
+            "en": "Progression",
+            "cn": "Progression"
+        }
+    },
+    "rewards": [
+        {
+            "id": "693941057c166a71ea473681",
+            "item_id": null,
+            "amount": 10000,
+            "currency": "RLT",
+            "ttl_time": 0,
+            "required_level": 1,
+            "type": "money",
             "title": {
-                "en": "Swine Continuum",
-                "es": "Continuo Porcino",
-                "pt": "Continuum Suíno"
+                "en": "Money Title",
+                "cn": "Money Title"
             },
             "description": {
-                "en": "Travel the continuum and uncover treasures hidden in time.",
-                "es": "Viaja por el continuo y descubre tesoros ocultos en el tiempo.",
-                "pt": "Viaje pelo continuum e descubra tesouros escondidos no tempo."
+                "en": "Money Reward Description",
+                "cn": "Money Reward Description"
             },
-            "endDate": "2025-12-14T23:59:59.999Z",
-            "maxMultiplier": 10000,
-            "maxLevel": 20,
-            "media": {
-                "backgroundImageURL": {
-                    "en": "https://static.chainers.io/media/progressionEvents/swine_continuum_pe/topImageEn.png?v=1.0",
-                    "es": "https://static.chainers.io/media/progressionEvents/swine_continuum_pe/topImageEs.png?v=1.0",
-                    "pt": "https://static.chainers.io/media/progressionEvents/swine_continuum_pe/topImagePt.png?v=1.0"
-                }
+            "range_count": {
+                "min": 1,
+                "max": 0
             }
         },
-        "rewards": [
-            {
-                "code": "pe_reward08122025_1",
-                "requiredLevel": 1,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca5eb",
-                "itemCode": "pe_reward08122025_1",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "CARDBOARD PLOT",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/basic/common/preview.png?v=1708363019810",
-                    "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
-                },
-                "isFeatured": false
+        {
+            "id": "693941067c166a71ea473683",
+            "item_id": "68b6d9dcf58321ae064c19e1",
+            "amount": 1,
+            "currency": "",
+            "ttl_time": 0,
+            "required_level": 2,
+            "type": "miner",
+            "title": {
+                "en": "Miner Reward",
+                "cn": "Miner Reward"
             },
-            {
-                "code": "pe_reward08122025_2",
-                "requiredLevel": 2,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca5ed",
-                "itemCode": "pe_reward08122025_2",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "GROWTH FERTILIZER",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/common/preview.png?v=1709042580935",
-                    "previewCount": "5",
-                    "previewDescription": "",
-                    "color": ""
-                },
-                "isFeatured": false
+            "description": {
+                "en": "Miner Reward Description",
+                "cn": "Miner Reward Description"
             },
-            {
-                "code": "pe_reward08122025_3",
-                "requiredLevel": 3,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca5ef",
-                "itemCode": "pe_reward08122025_3",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "TOMATO SEED",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/tomato/uncommon/preview.png?v=1765456735579",
-                    "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
-                },
-                "isFeatured": false
+            "range_count": {
+                "min": 1,
+                "max": 0
             },
-            {
-                "code": "pe_reward08122025_4",
-                "requiredLevel": 4,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca5f1",
-                "itemCode": "pe_reward08122025_4",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Cucumber seed",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/cucumber/rare/preview.png?v=1748876842137",
-                    "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
+            "item": {
+                "_id": "68b6d9dcf58321ae064c19e1",
+                "power": 50000,
+                "width": 2,
+                "name": {
+                    "en": "BasaltRig",
+                    "cn": "BasaltRig",
+                    "es": "BasaltRig",
+                    "pt": "BasaltRig"
                 },
-                "isFeatured": true
-            },
-            {
-                "code": "pe_reward08122025_5",
-                "requiredLevel": 5,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca5f3",
-                "itemCode": "pe_reward08122025_5",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Piggy food",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/truffle/rare/preview.png?v=1765456704229",
-                    "previewCount": "5",
-                    "previewDescription": "",
-                    "color": ""
+                "description": {
+                    "en": "A basic mining rig that adds steady hash power to your farm. Plug it in and let it run.",
+                    "cn": "A basic mining rig that adds steady hash power to your farm. Plug it in and let it run.",
+                    "es": "A basic mining rig that adds steady hash power to your farm. Plug it in and let it run.",
+                    "pt": "A basic mining rig that adds steady hash power to your farm. Plug it in and let it run."
                 },
-                "isFeatured": false
-            },
-            {
-                "code": "pe_reward08122025_6",
-                "requiredLevel": 6,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca5f5",
-                "itemCode": "pe_reward08122025_6",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "LEGENDARY GROWTH FERTILIZER",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/legendary/preview.png?v=1752764673781",
-                    "previewCount": "10",
-                    "previewDescription": "",
-                    "color": ""
+                "created_by_title": {
+                    "link": "",
+                    "text": ""
                 },
-                "isFeatured": false
-            },
-            {
-                "code": "pe_reward08122025_7",
-                "requiredLevel": 7,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca5f7",
-                "itemCode": "pe_reward08122025_7",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "WOOD PLOT",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/basic/uncommon/preview.png?v=1708363019810",
-                    "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
+                "level": 0,
+                "type": "basic",
+                "filename": "basaltrig",
+                "frames_data": {
+                    "frame_width": 116,
+                    "frame_height": 50,
+                    "frames_count": 4
                 },
-                "isFeatured": false
-            },
-            {
-                "code": "pe_reward08122025_8",
-                "requiredLevel": 8,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca5f9",
-                "itemCode": "pe_reward08122025_8",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Sunflower seed",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/sunflower/rare/preview.png?v=1732119698977",
-                    "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
-                },
-                "isFeatured": true
-            },
-            {
-                "code": "pe_reward08122025_9",
-                "requiredLevel": 9,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca5fb",
-                "itemCode": "pe_reward08122025_9",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "TOMATO SEED",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/tomato/rare/preview.png?v=1765456735579",
-                    "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "pe_reward08122025_10",
-                "requiredLevel": 10,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca5fd",
-                "itemCode": "pe_reward08122025_10",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "GROWTH FERTILIZER",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/common/preview.png?v=1709042580935",
-                    "previewCount": "15",
-                    "previewDescription": "",
-                    "color": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "pe_reward08122025_11",
-                "requiredLevel": 11,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca5ff",
-                "itemCode": "pe_reward08122025_11",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "PLASTIC PLOT",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/basic/rare/preview.png?v=1708363019810",
-                    "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "pe_reward08122025_12",
-                "requiredLevel": 12,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca601",
-                "itemCode": "pe_reward08122025_12",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Jack pumpkin seed",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/jack_pumpkin/rare/preview.png?v=1761664507965",
-                    "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
-                },
-                "isFeatured": true
-            },
-            {
-                "code": "pe_reward08122025_13",
-                "requiredLevel": 13,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca603",
-                "itemCode": "pe_reward08122025_13",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "TOMATO SEED",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/tomato/epic/preview.png?v=1765456735579",
-                    "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "pe_reward08122025_14",
-                "requiredLevel": 14,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca605",
-                "itemCode": "pe_reward08122025_14",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Charlotte",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/piggies/common/preview.png?v=1760615289240",
-                    "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "pe_reward08122025_15",
-                "requiredLevel": 15,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca607",
-                "itemCode": "pe_reward08122025_15",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Cucumber seed",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/cucumber/rare/preview.png?v=1748876842137",
-                    "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "pe_reward08122025_16",
-                "requiredLevel": 16,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca609",
-                "itemCode": "pe_reward08122025_16",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "STONE PLOT",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/basic/legendary/preview.png?v=1708363019810",
-                    "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
-                },
-                "isFeatured": true
-            },
-            {
-                "code": "pe_reward08122025_17",
-                "requiredLevel": 17,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca60b",
-                "itemCode": "pe_reward08122025_17",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Peppa Prime",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/piggies/uncommon/preview.png?v=1763129500081",
-                    "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "pe_reward08122025_18",
-                "requiredLevel": 18,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca60d",
-                "itemCode": "pe_reward08122025_18",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Jacks Piggy Food",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/jack_truffle/uncommon/preview.png?v=1765456704229",
-                    "previewCount": "10",
-                    "previewDescription": "",
-                    "color": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "pe_reward08122025_19",
-                "requiredLevel": 19,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca60f",
-                "itemCode": "pe_reward08122025_19",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Sunflower seed",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/sunflower/rare/preview.png?v=1732119698977",
-                    "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "pe_reward08122025_20",
-                "requiredLevel": 20,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca611",
-                "itemCode": "pe_reward08122025_20",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Marty McSwine",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/piggies/rare/preview.png?v=1765456665168",
-                    "previewCount": "1",
-                    "previewDescription": "max bp/min: 533",
-                    "color": ""
-                },
-                "isFeatured": false
+                "is_can_be_sold_on_mp": false,
+                "bonus": 20,
+                "is_in_set": false
             }
-        ],
-        "levelsConfig": [
-            {
-                "level": 1,
-                "requiredXp": 600,
-                "levelXp": 600
+        },
+        {
+            "id": "693941067c166a71ea473685",
+            "item_id": null,
+            "amount": 100000,
+            "currency": "",
+            "ttl_time": 259200000,
+            "required_level": 3,
+            "type": "power",
+            "title": {
+                "en": "Power",
+                "cn": "Power"
             },
-            {
+            "description": {
+                "en": "Power Reward Description",
+                "cn": "Power Reward Description"
+            },
+            "range_count": {
+                "min": 1,
+                "max": 0
+            }
+        },
+        {
+            "id": "693949097c166a71ea4736a8",
+            "item_id": "68b6daa0f58321ae064c1bae",
+            "amount": 1,
+            "currency": "",
+            "ttl_time": 0,
+            "required_level": 4,
+            "type": "miner",
+            "title": {
+                "en": "Miner Reward",
+                "cn": "Miner Reward"
+            },
+            "description": {
+                "en": "Miner Reward Description",
+                "cn": "Miner Reward Description"
+            },
+            "range_count": {
+                "min": 1,
+                "max": 0
+            },
+            "item": {
+                "_id": "68b6daa0f58321ae064c1bae",
+                "power": 120000,
+                "width": 2,
+                "name": {
+                    "en": "ClayRig",
+                    "cn": "ClayRig",
+                    "es": "ClayRig",
+                    "pt": "ClayRig"
+                },
+                "description": {
+                    "en": "A basic mining rig that adds steady hash power to your farm. Plug it in and let it run.",
+                    "cn": "A basic mining rig that adds steady hash power to your farm. Plug it in and let it run.",
+                    "es": "A basic mining rig that adds steady hash power to your farm. Plug it in and let it run.",
+                    "pt": "A basic mining rig that adds steady hash power to your farm. Plug it in and let it run."
+                },
+                "created_by_title": {
+                    "link": "",
+                    "text": ""
+                },
+                "level": 0,
+                "type": "basic",
+                "filename": "clayrig",
+                "frames_data": {
+                    "frame_width": 116,
+                    "frame_height": 50,
+                    "frames_count": 4
+                },
+                "is_can_be_sold_on_mp": false,
+                "bonus": 50,
+                "is_in_set": false
+            }
+        },
+        {
+            "id": "693949097c166a71ea4736a9",
+            "item_id": null,
+            "amount": 200000,
+            "currency": "",
+            "ttl_time": 259200000,
+            "required_level": 5,
+            "type": "power",
+            "title": {
+                "en": "Power",
+                "cn": "Power"
+            },
+            "description": {
+                "en": "Power Reward Description",
+                "cn": "Power Reward Description"
+            },
+            "range_count": {
+                "min": 1,
+                "max": 0
+            }
+        },
+        {
+            "id": "693949097c166a71ea4736aa",
+            "item_id": null,
+            "amount": 10000000,
+            "currency": "RST",
+            "ttl_time": 0,
+            "required_level": 6,
+            "type": "money",
+            "title": {
+                "en": "Money Title",
+                "cn": "Money Title"
+            },
+            "description": {
+                "en": "Money Reward Description",
+                "cn": "Money Reward Description"
+            },
+            "range_count": {
+                "min": 1,
+                "max": 0
+            }
+        },
+        {
+            "id": "693949097c166a71ea4736ab",
+            "item_id": "68b6d9dcf58321ae064c19e1",
+            "amount": 1,
+            "currency": "",
+            "ttl_time": 0,
+            "required_level": 7,
+            "type": "miner",
+            "title": {
+                "en": "Miner Reward",
+                "cn": "Miner Reward"
+            },
+            "description": {
+                "en": "Miner Reward Description",
+                "cn": "Miner Reward Description"
+            },
+            "range_count": {
+                "min": 1,
+                "max": 0
+            },
+            "item": {
+                "_id": "68b6d9dcf58321ae064c19e1",
+                "power": 50000,
+                "width": 2,
+                "name": {
+                    "en": "BasaltRig",
+                    "cn": "BasaltRig",
+                    "es": "BasaltRig",
+                    "pt": "BasaltRig"
+                },
+                "description": {
+                    "en": "A basic mining rig that adds steady hash power to your farm. Plug it in and let it run.",
+                    "cn": "A basic mining rig that adds steady hash power to your farm. Plug it in and let it run.",
+                    "es": "A basic mining rig that adds steady hash power to your farm. Plug it in and let it run.",
+                    "pt": "A basic mining rig that adds steady hash power to your farm. Plug it in and let it run."
+                },
+                "created_by_title": {
+                    "link": "",
+                    "text": ""
+                },
+                "level": 0,
+                "type": "basic",
+                "filename": "basaltrig",
+                "frames_data": {
+                    "frame_width": 116,
+                    "frame_height": 50,
+                    "frames_count": 4
+                },
+                "is_can_be_sold_on_mp": false,
+                "bonus": 20,
+                "is_in_set": false
+            }
+        },
+        {
+            "id": "693949097c166a71ea4736ac",
+            "item_id": null,
+            "amount": 15000000,
+            "currency": "RST",
+            "ttl_time": 0,
+            "required_level": 8,
+            "type": "money",
+            "title": {
+                "en": "Money Title",
+                "cn": "Money Title"
+            },
+            "description": {
+                "en": "Money Reward Description",
+                "cn": "Money Reward Description"
+            },
+            "range_count": {
+                "min": 1,
+                "max": 0
+            }
+        },
+        {
+            "id": "693949097c166a71ea4736ad",
+            "item_id": "68b6daa0f58321ae064c1bae",
+            "amount": 1,
+            "currency": "",
+            "ttl_time": 0,
+            "required_level": 9,
+            "type": "miner",
+            "title": {
+                "en": "Miner Reward",
+                "cn": "Miner Reward"
+            },
+            "description": {
+                "en": "Miner Reward Description",
+                "cn": "Miner Reward Description"
+            },
+            "range_count": {
+                "min": 1,
+                "max": 0
+            },
+            "item": {
+                "_id": "68b6daa0f58321ae064c1bae",
+                "power": 120000,
+                "width": 2,
+                "name": {
+                    "en": "ClayRig",
+                    "cn": "ClayRig",
+                    "es": "ClayRig",
+                    "pt": "ClayRig"
+                },
+                "description": {
+                    "en": "A basic mining rig that adds steady hash power to your farm. Plug it in and let it run.",
+                    "cn": "A basic mining rig that adds steady hash power to your farm. Plug it in and let it run.",
+                    "es": "A basic mining rig that adds steady hash power to your farm. Plug it in and let it run.",
+                    "pt": "A basic mining rig that adds steady hash power to your farm. Plug it in and let it run."
+                },
+                "created_by_title": {
+                    "link": "",
+                    "text": ""
+                },
+                "level": 0,
+                "type": "basic",
+                "filename": "clayrig",
+                "frames_data": {
+                    "frame_width": 116,
+                    "frame_height": 50,
+                    "frames_count": 4
+                },
+                "is_can_be_sold_on_mp": false,
+                "bonus": 50,
+                "is_in_set": false
+            }
+        },
+        {
+            "id": "693949097c166a71ea4736ae",
+            "item_id": "67e2923af3afcae7918a2b04",
+            "amount": 1,
+            "currency": "",
+            "ttl_time": 0,
+            "required_level": 10,
+            "type": "miner",
+            "title": {
+                "en": "Miner Reward",
+                "cn": "Miner Reward"
+            },
+            "description": {
+                "en": "Miner Reward Description",
+                "cn": "Miner Reward Description"
+            },
+            "range_count": {
+                "min": 1,
+                "max": 0
+            },
+            "item": {
+                "_id": "67e2923af3afcae7918a2b04",
+                "power": 750000,
+                "width": 2,
+                "name": {
+                    "en": "The Pawfather",
+                    "cn": "The Pawfather",
+                    "es": "The Pawfather",
+                    "pt": "The Pawfather"
+                },
+                "description": {
+                    "en": "When Uncle Hamster unleashes Loki, there’s only one rule. Run fast or become his next snack",
+                    "cn": "When Uncle Hamster unleashes Loki, there’s only one rule. Run fast or become his next snack",
+                    "es": "When Uncle Hamster unleashes Loki, there’s only one rule. Run fast or become his next snack",
+                    "pt": "When Uncle Hamster unleashes Loki, there’s only one rule. Run fast or become his next snack"
+                },
+                "created_by_title": {
+                    "link": "",
+                    "text": ""
+                },
+                "level": 0,
+                "type": "basic",
+                "filename": "the_pawfather",
+                "frames_data": {
+                    "frame_width": 116,
+                    "frame_height": 50,
+                    "frames_count": 4
+                },
+                "is_can_be_sold_on_mp": false,
+                "bonus": 100,
+                "is_in_set": false
+            }
+        },
+        {
+            "id": "693949097c166a71ea4736af",
+            "item_id": null,
+            "amount": 200000,
+            "currency": "",
+            "ttl_time": 259200000,
+            "required_level": 11,
+            "type": "power",
+            "title": {
+                "en": "Power",
+                "cn": "Power"
+            },
+            "description": {
+                "en": "Power Reward Description",
+                "cn": "Power Reward Description"
+            },
+            "range_count": {
+                "min": 1,
+                "max": 0
+            }
+        },
+        {
+            "id": "693949097c166a71ea4736b0",
+            "item_id": "67e2923af3afcae7918a2b04",
+            "amount": 1,
+            "currency": "",
+            "ttl_time": 0,
+            "required_level": 12,
+            "type": "miner",
+            "title": {
+                "en": "Miner Reward",
+                "cn": "Miner Reward"
+            },
+            "description": {
+                "en": "Miner Reward Description",
+                "cn": "Miner Reward Description"
+            },
+            "range_count": {
+                "min": 1,
+                "max": 0
+            },
+            "item": {
+                "_id": "67e2923af3afcae7918a2b04",
+                "power": 750000,
+                "width": 2,
+                "name": {
+                    "en": "The Pawfather",
+                    "cn": "The Pawfather",
+                    "es": "The Pawfather",
+                    "pt": "The Pawfather"
+                },
+                "description": {
+                    "en": "When Uncle Hamster unleashes Loki, there’s only one rule. Run fast or become his next snack",
+                    "cn": "When Uncle Hamster unleashes Loki, there’s only one rule. Run fast or become his next snack",
+                    "es": "When Uncle Hamster unleashes Loki, there’s only one rule. Run fast or become his next snack",
+                    "pt": "When Uncle Hamster unleashes Loki, there’s only one rule. Run fast or become his next snack"
+                },
+                "created_by_title": {
+                    "link": "",
+                    "text": ""
+                },
+                "level": 0,
+                "type": "basic",
+                "filename": "the_pawfather",
+                "frames_data": {
+                    "frame_width": 116,
+                    "frame_height": 50,
+                    "frames_count": 4
+                },
+                "is_can_be_sold_on_mp": false,
+                "bonus": 100,
+                "is_in_set": false
+            }
+        },
+        {
+            "id": "693949097c166a71ea4736b1",
+            "item_id": null,
+            "amount": 20000000,
+            "currency": "RST",
+            "ttl_time": 0,
+            "required_level": 13,
+            "type": "money",
+            "title": {
+                "en": "Money Title",
+                "cn": "Money Title"
+            },
+            "description": {
+                "en": "Money Reward Description",
+                "cn": "Money Reward Description"
+            },
+            "range_count": {
+                "min": 1,
+                "max": 0
+            }
+        },
+        {
+            "id": "693949097c166a71ea4736b2",
+            "item_id": null,
+            "amount": 500000,
+            "currency": "",
+            "ttl_time": 259200000,
+            "required_level": 14,
+            "type": "power",
+            "title": {
+                "en": "Power",
+                "cn": "Power"
+            },
+            "description": {
+                "en": "Power Reward Description",
+                "cn": "Power Reward Description"
+            },
+            "range_count": {
+                "min": 1,
+                "max": 0
+            }
+        },
+        {
+            "id": "693949097c166a71ea4736b3",
+            "item_id": "68c3e858e804ea5083724c5e",
+            "amount": 1,
+            "currency": "",
+            "ttl_time": 0,
+            "required_level": 15,
+            "type": "miner",
+            "title": {
+                "en": "Miner Reward",
+                "cn": "Miner Reward"
+            },
+            "description": {
+                "en": "Miner Reward Description",
+                "cn": "Miner Reward Description"
+            },
+            "range_count": {
+                "min": 1,
+                "max": 0
+            },
+            "item": {
+                "_id": "68c3e858e804ea5083724c5e",
+                "power": 1000000,
+                "width": 2,
+                "name": {
+                    "en": "Sun, Skin & Sin",
+                    "cn": "Sun, Skin & Sin",
+                    "es": "Sun, Skin & Sin",
+                    "pt": "Sun, Skin & Sin"
+                },
+                "description": {
+                    "en": "I saved you a sunny spot. Come closer… I don't bite. Much.",
+                    "cn": "I saved you a sunny spot. Come closer… I don't bite. Much.",
+                    "es": "I saved you a sunny spot. Come closer… I don't bite. Much.",
+                    "pt": "I saved you a sunny spot. Come closer… I don't bite. Much."
+                },
+                "created_by_title": {
+                    "link": "",
+                    "text": ""
+                },
+                "level": 0,
+                "type": "basic",
+                "filename": "sun_skin_&_sin",
+                "frames_data": {
+                    "frame_width": 116,
+                    "frame_height": 50,
+                    "frames_count": 4
+                },
+                "is_can_be_sold_on_mp": false,
+                "bonus": 100,
+                "is_in_set": false
+            }
+        },
+        {
+            "id": "693949097c166a71ea4736b4",
+            "item_id": null,
+            "amount": 25000000,
+            "currency": "RST",
+            "ttl_time": 0,
+            "required_level": 16,
+            "type": "money",
+            "title": {
+                "en": "Money Title",
+                "cn": "Money Title"
+            },
+            "description": {
+                "en": "Money Reward Description",
+                "cn": "Money Reward Description"
+            },
+            "range_count": {
+                "min": 1,
+                "max": 0
+            }
+        },
+        {
+            "id": "693949097c166a71ea4736b5",
+            "item_id": null,
+            "amount": 250000,
+            "currency": "RLT",
+            "ttl_time": 0,
+            "required_level": 17,
+            "type": "money",
+            "title": {
+                "en": "Money Title",
+                "cn": "Money Title"
+            },
+            "description": {
+                "en": "Money Reward Description",
+                "cn": "Money Reward Description"
+            },
+            "range_count": {
+                "min": 1,
+                "max": 0
+            }
+        },
+        {
+            "id": "693949097c166a71ea4736b6",
+            "item_id": null,
+            "amount": 1000000,
+            "currency": "",
+            "ttl_time": 259200000,
+            "required_level": 18,
+            "type": "power",
+            "title": {
+                "en": "Power",
+                "cn": "Power"
+            },
+            "description": {
+                "en": "Power Reward Description",
+                "cn": "Power Reward Description"
+            },
+            "range_count": {
+                "min": 1,
+                "max": 0
+            }
+        },
+        {
+            "id": "693949097c166a71ea4736b7",
+            "item_id": "68c3e858e804ea5083724c5e",
+            "amount": 1,
+            "currency": "",
+            "ttl_time": 0,
+            "required_level": 19,
+            "type": "miner",
+            "title": {
+                "en": "Miner Reward",
+                "cn": "Miner Reward"
+            },
+            "description": {
+                "en": "Miner Reward Description",
+                "cn": "Miner Reward Description"
+            },
+            "range_count": {
+                "min": 1,
+                "max": 0
+            },
+            "item": {
+                "_id": "68c3e858e804ea5083724c5e",
+                "power": 1000000,
+                "width": 2,
+                "name": {
+                    "en": "Sun, Skin & Sin",
+                    "cn": "Sun, Skin & Sin",
+                    "es": "Sun, Skin & Sin",
+                    "pt": "Sun, Skin & Sin"
+                },
+                "description": {
+                    "en": "I saved you a sunny spot. Come closer… I don't bite. Much.",
+                    "cn": "I saved you a sunny spot. Come closer… I don't bite. Much.",
+                    "es": "I saved you a sunny spot. Come closer… I don't bite. Much.",
+                    "pt": "I saved you a sunny spot. Come closer… I don't bite. Much."
+                },
+                "created_by_title": {
+                    "link": "",
+                    "text": ""
+                },
+                "level": 0,
+                "type": "basic",
+                "filename": "sun_skin_&_sin",
+                "frames_data": {
+                    "frame_width": 116,
+                    "frame_height": 50,
+                    "frames_count": 4
+                },
+                "is_can_be_sold_on_mp": false,
+                "bonus": 100,
+                "is_in_set": false
+            }
+        },
+        {
+            "id": "693949097c166a71ea4736b8",
+            "item_id": "69394626b13b27427ba4ce5c",
+            "amount": 1,
+            "currency": "",
+            "ttl_time": 0,
+            "required_level": 20,
+            "type": "miner",
+            "title": {
+                "en": "Miner Reward",
+                "cn": "Miner Reward"
+            },
+            "description": {
+                "en": "Miner Reward Description",
+                "cn": "Miner Reward Description"
+            },
+            "range_count": {
+                "min": 1,
+                "max": 0
+            },
+            "item": {
+                "_id": "69394626b13b27427ba4ce5c",
+                "power": 2080000,
+                "width": 2,
+                "name": {
+                    "en": "Sleep Token",
+                    "cn": "Sleep Token",
+                    "es": "Sleep Token",
+                    "pt": "Sleep Token"
+                },
+                "description": {
+                    "en": "You and I are down headfirst in another world, I heard. I have a feeling we're close to the end.",
+                    "cn": "You and I are down headfirst in another world, I heard. I have a feeling we're close to the end.",
+                    "es": "You and I are down headfirst in another world, I heard. I have a feeling we're close to the end.",
+                    "pt": "You and I are down headfirst in another world, I heard. I have a feeling we're close to the end."
+                },
+                "created_by_title": {
+                    "link": "",
+                    "text": ""
+                },
                 "level": 2,
-                "requiredXp": 1000,
-                "levelXp": 400
-            },
-            {
-                "level": 3,
-                "requiredXp": 2200,
-                "levelXp": 1200
-            },
-            {
-                "level": 4,
-                "requiredXp": 4700,
-                "levelXp": 2500
-            },
-            {
-                "level": 5,
-                "requiredXp": 7000,
-                "levelXp": 2300
-            },
-            {
-                "level": 6,
-                "requiredXp": 8600,
-                "levelXp": 1600
-            },
-            {
-                "level": 7,
-                "requiredXp": 13100,
-                "levelXp": 4500
-            },
-            {
-                "level": 8,
-                "requiredXp": 22600,
-                "levelXp": 9500
-            },
-            {
-                "level": 9,
-                "requiredXp": 31500,
-                "levelXp": 8900
-            },
-            {
-                "level": 10,
-                "requiredXp": 37700,
-                "levelXp": 6200
-            },
-            {
-                "level": 11,
-                "requiredXp": 55100,
-                "levelXp": 17400
-            },
-            {
-                "level": 12,
-                "requiredXp": 91500,
-                "levelXp": 36400
-            },
-            {
-                "level": 13,
-                "requiredXp": 125500,
-                "levelXp": 34000
-            },
-            {
-                "level": 14,
-                "requiredXp": 149300,
-                "levelXp": 23800
-            },
-            {
-                "level": 15,
-                "requiredXp": 216000,
-                "levelXp": 66700
-            },
-            {
-                "level": 16,
-                "requiredXp": 356000,
-                "levelXp": 140000
-            },
-            {
-                "level": 17,
-                "requiredXp": 486700,
-                "levelXp": 130700
-            },
-            {
-                "level": 18,
-                "requiredXp": 578200,
-                "levelXp": 91500
-            },
-            {
-                "level": 19,
-                "requiredXp": 834300,
-                "levelXp": 256100
-            },
-            {
-                "level": 20,
-                "requiredXp": 1372200,
-                "levelXp": 537900
+                "type": "merge",
+                "filename": "sleep_token",
+                "frames_data": {
+                    "frame_width": 116,
+                    "frame_height": 50
+                },
+                "is_can_be_sold_on_mp": true,
+                "bonus": 400,
+                "is_in_set": false
             }
-        ]
-    }
+        }
+    ],
+    "levels_config": [
+        {
+            "level": 1,
+            "level_xp": 500,
+            "required_xp": 500
+        },
+        {
+            "level": 2,
+            "level_xp": 1000,
+            "required_xp": 1500
+        },
+        {
+            "level": 3,
+            "level_xp": 1500,
+            "required_xp": 3000
+        },
+        {
+            "level": 4,
+            "level_xp": 3500,
+            "required_xp": 6500
+        },
+        {
+            "level": 5,
+            "level_xp": 1000,
+            "required_xp": 7500
+        },
+        {
+            "level": 6,
+            "level_xp": 1500,
+            "required_xp": 9000
+        },
+        {
+            "level": 7,
+            "level_xp": 2500,
+            "required_xp": 11500
+        },
+        {
+            "level": 8,
+            "level_xp": 1500,
+            "required_xp": 13000
+        },
+        {
+            "level": 9,
+            "level_xp": 3000,
+            "required_xp": 16000
+        },
+        {
+            "level": 10,
+            "level_xp": 8500,
+            "required_xp": 24500
+        },
+        {
+            "level": 11,
+            "level_xp": 2500,
+            "required_xp": 27000
+        },
+        {
+            "level": 12,
+            "level_xp": 3000,
+            "required_xp": 30000
+        },
+        {
+            "level": 13,
+            "level_xp": 5000,
+            "required_xp": 35000
+        },
+        {
+            "level": 14,
+            "level_xp": 10000,
+            "required_xp": 45000
+        },
+        {
+            "level": 15,
+            "level_xp": 25000,
+            "required_xp": 70000
+        },
+        {
+            "level": 16,
+            "level_xp": 5000,
+            "required_xp": 75000
+        },
+        {
+            "level": 17,
+            "level_xp": 8000,
+            "required_xp": 83000
+        },
+        {
+            "level": 18,
+            "level_xp": 12000,
+            "required_xp": 95000
+        },
+        {
+            "level": 19,
+            "level_xp": 20000,
+            "required_xp": 115000
+        },
+        {
+            "level": 20,
+            "level_xp": 35000,
+            "required_xp": 150000
+        }
+    ]
 }
