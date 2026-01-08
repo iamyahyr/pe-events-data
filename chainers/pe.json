@@ -2,367 +2,347 @@
     "success": true,
     "data": {
         "event": {
-            "id": "693abbcc20ff8ee70a5ca6b2",
-            "code": "swine_continuum_pe",
+            "id": "695e73f9eeb1519a98a3a8eb",
+            "code": "call_of_the_wild_pe",
             "title": {
-                "en": "Swine Continuum",
-                "es": "Continuo Porcino",
-                "pt": "Continuum Suíno"
+                "en": "Call of the Wild",
+                "es": "El Llamado Salvaje",
+                "pt": "O Chamado Selvagem"
             },
             "description": {
-                "en": "Travel the continuum and uncover treasures hidden in time.",
-                "es": "Viaja por el continuo y descubre tesoros ocultos en el tiempo.",
-                "pt": "Viaje pelo continuum e descubra tesouros escondidos no tempo."
+                "en": "Climb to the top of the treasure, every step gives you rewards.",
+                "es": "Asciende hasta la cima del tesoro, cada paso te da recompensas.",
+                "pt": "Suba ao topo do tesouro, cada passo lhe dá recompensas."
             },
-            "endDate": "2025-12-14T23:59:59.999Z",
+            "endDate": "2026-01-11T23:59:59.000Z",
             "maxMultiplier": 10000,
             "maxLevel": 20,
             "media": {
                 "backgroundImageURL": {
-                    "en": "https://static.chainers.io/media/progressionEvents/swine_continuum_pe/topImageEn.png?v=1.0",
-                    "es": "https://static.chainers.io/media/progressionEvents/swine_continuum_pe/topImageEs.png?v=1.0",
-                    "pt": "https://static.chainers.io/media/progressionEvents/swine_continuum_pe/topImagePt.png?v=1.0"
+                    "en": "https://static.chainers.io/media/pe/695e73f9eeb1519a98a3a8eb/progression-event-bg-en.png",
+                    "es": "https://static.chainers.io/media/pe/695e73f9eeb1519a98a3a8eb/progression-event-bg-es.png",
+                    "pt": "https://static.chainers.io/media/pe/695e73f9eeb1519a98a3a8eb/progression-event-bg-pt.png"
                 }
             }
         },
         "rewards": [
             {
-                "code": "pe_reward08122025_1",
+                "code": "call_of_the_wild_pe-1lvl-booster-call_of_the_wild_pe_reward_1",
                 "requiredLevel": 1,
                 "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca5eb",
-                "itemCode": "pe_reward08122025_1",
+                "itemID": "695e6273aa33d0320e30995f",
+                "itemCode": "call_of_the_wild_pe_reward_1",
                 "itemType": "booster",
                 "currency": "",
                 "customTitle": "CARDBOARD PLOT",
                 "customMedia": {
                     "previewUrl": "https://static.chainers.io/media/farm/beds/basic/common/preview.png?v=1708363019810",
                     "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
+                    "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "pe_reward08122025_2",
+                "code": "call_of_the_wild_pe-2lvl-booster-call_of_the_wild_pe_reward_2",
                 "requiredLevel": 2,
                 "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca5ed",
-                "itemCode": "pe_reward08122025_2",
+                "itemID": "695e62b0aa33d0320e30999d",
+                "itemCode": "call_of_the_wild_pe_reward_2",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "GROWTH FERTILIZER",
+                "customTitle": "White Chicken",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/common/preview.png?v=1709042580935",
-                    "previewCount": "5",
-                    "previewDescription": "",
-                    "color": ""
+                    "previewUrl": "https://static.chainers.io/media/farm/animals/birds/common/preview.png?v=1717511784114",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": true
+            },
+            {
+                "code": "call_of_the_wild_pe-3lvl-booster-call_of_the_wild_pe_reward_3",
+                "requiredLevel": 3,
+                "count": 1,
+                "itemID": "695e62d8eeb1519a98a39e98",
+                "itemCode": "call_of_the_wild_pe_reward_3",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Deer food",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/gingerbread/common/preview.png?v=1766068961755",
+                    "previewCount": "10",
+                    "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "pe_reward08122025_3",
-                "requiredLevel": 3,
+                "code": "call_of_the_wild_pe-4lvl-booster-call_of_the_wild_pe_reward_4",
+                "requiredLevel": 4,
                 "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca5ef",
-                "itemCode": "pe_reward08122025_3",
+                "itemID": "695e62fbaa33d0320e309a30",
+                "itemCode": "call_of_the_wild_pe_reward_4",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Rookie dasher",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/deers/common/preview.png?v=1766068988159",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "call_of_the_wild_pe-5lvl-booster-call_of_the_wild_pe_reward_5",
+                "requiredLevel": 5,
+                "count": 1,
+                "itemID": "695e631beeb1519a98a39f1b",
+                "itemCode": "call_of_the_wild_pe_reward_5",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "TOMATO SEED",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/tomato/common/preview.png?v=1765456735579",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "call_of_the_wild_pe-6lvl-booster-call_of_the_wild_pe_reward_6",
+                "requiredLevel": 6,
+                "count": 1,
+                "itemID": "695e6337eeb1519a98a39f5a",
+                "itemCode": "call_of_the_wild_pe_reward_6",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Brown Goat",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/animals/cattle/common/preview.png?v=1717511784114",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": true
+            },
+            {
+                "code": "call_of_the_wild_pe-7lvl-booster-call_of_the_wild_pe_reward_7",
+                "requiredLevel": 7,
+                "count": 1,
+                "itemID": "695e6355aa33d0320e309af5",
+                "itemCode": "call_of_the_wild_pe_reward_7",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Deer food",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/gingerbread/uncommon/preview.png?v=1766068961755",
+                    "previewCount": "10",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "call_of_the_wild_pe-8lvl-booster-call_of_the_wild_pe_reward_4",
+                "requiredLevel": 8,
+                "count": 1,
+                "itemID": "695e62fbaa33d0320e309a30",
+                "itemCode": "call_of_the_wild_pe_reward_4",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Rookie dasher",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/deers/common/preview.png?v=1766068988159",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "call_of_the_wild_pe-9lvl-booster-call_of_the_wild_pe_reward_9",
+                "requiredLevel": 9,
+                "count": 1,
+                "itemID": "695e637aeeb1519a98a39fdb",
+                "itemCode": "call_of_the_wild_pe_reward_9",
                 "itemType": "booster",
                 "currency": "",
                 "customTitle": "TOMATO SEED",
                 "customMedia": {
                     "previewUrl": "https://static.chainers.io/media/farm/seeds/tomato/uncommon/preview.png?v=1765456735579",
                     "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
+                    "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "pe_reward08122025_4",
-                "requiredLevel": 4,
+                "code": "call_of_the_wild_pe-10lvl-booster-call_of_the_wild_pe_reward_10",
+                "requiredLevel": 10,
                 "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca5f1",
-                "itemCode": "pe_reward08122025_4",
+                "itemID": "695e6397aa33d0320e309b67",
+                "itemCode": "call_of_the_wild_pe_reward_10",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "Cucumber seed",
+                "customTitle": "Chinchilla",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/cucumber/rare/preview.png?v=1748876842137",
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/fuzzies/common/preview.png?v=1742480059907",
                     "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
+                    "previewDescription": ""
                 },
                 "isFeatured": true
             },
             {
-                "code": "pe_reward08122025_5",
-                "requiredLevel": 5,
+                "code": "call_of_the_wild_pe-11lvl-booster-call_of_the_wild_pe_reward_11",
+                "requiredLevel": 11,
                 "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca5f3",
-                "itemCode": "pe_reward08122025_5",
+                "itemID": "695e63b5eeb1519a98a3a05c",
+                "itemCode": "call_of_the_wild_pe_reward_11",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "Piggy food",
+                "customTitle": "Deer food",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/truffle/rare/preview.png?v=1765456704229",
-                    "previewCount": "5",
-                    "previewDescription": "",
-                    "color": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "pe_reward08122025_6",
-                "requiredLevel": 6,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca5f5",
-                "itemCode": "pe_reward08122025_6",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "LEGENDARY GROWTH FERTILIZER",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/legendary/preview.png?v=1752764673781",
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/gingerbread/rare/preview.png?v=1766068961755",
                     "previewCount": "10",
-                    "previewDescription": "",
-                    "color": ""
+                    "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "pe_reward08122025_7",
-                "requiredLevel": 7,
+                "code": "call_of_the_wild_pe-12lvl-booster-call_of_the_wild_pe_reward_4",
+                "requiredLevel": 12,
                 "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca5f7",
-                "itemCode": "pe_reward08122025_7",
+                "itemID": "695e62fbaa33d0320e309a30",
+                "itemCode": "call_of_the_wild_pe_reward_4",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Rookie dasher",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/deers/common/preview.png?v=1766068988159",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "call_of_the_wild_pe-13lvl-booster-call_of_the_wild_pe_reward_13",
+                "requiredLevel": 13,
+                "count": 1,
+                "itemID": "695e63d2eeb1519a98a3a09b",
+                "itemCode": "call_of_the_wild_pe_reward_13",
                 "itemType": "booster",
                 "currency": "",
                 "customTitle": "WOOD PLOT",
                 "customMedia": {
                     "previewUrl": "https://static.chainers.io/media/farm/beds/basic/uncommon/preview.png?v=1708363019810",
                     "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
+                    "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "pe_reward08122025_8",
-                "requiredLevel": 8,
+                "code": "call_of_the_wild_pe-14lvl-booster-call_of_the_wild_pe_reward_14",
+                "requiredLevel": 14,
                 "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca5f9",
-                "itemCode": "pe_reward08122025_8",
+                "itemID": "695e63f2aa33d0320e309c70",
+                "itemCode": "call_of_the_wild_pe_reward_14",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "Sunflower seed",
+                "customTitle": "Prancer scout",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/sunflower/rare/preview.png?v=1732119698977",
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/deers/uncommon/preview.png?v=1766068988159",
                     "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
+                    "previewDescription": ""
                 },
                 "isFeatured": true
             },
             {
-                "code": "pe_reward08122025_9",
-                "requiredLevel": 9,
+                "code": "call_of_the_wild_pe-15lvl-booster-call_of_the_wild_pe_reward_15",
+                "requiredLevel": 15,
                 "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca5fb",
-                "itemCode": "pe_reward08122025_9",
+                "itemID": "695e6416aa33d0320e309cf2",
+                "itemCode": "call_of_the_wild_pe_reward_15",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "TOMATO SEED",
+                "customTitle": "Deer food",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/tomato/rare/preview.png?v=1765456735579",
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/gingerbread/epic/preview.png?v=1766068961755",
+                    "previewCount": "10",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "call_of_the_wild_pe-16lvl-booster-call_of_the_wild_pe_reward_16",
+                "requiredLevel": 16,
+                "count": 1,
+                "itemID": "695e6432eeb1519a98a3a0fb",
+                "itemCode": "call_of_the_wild_pe_reward_16",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Comet runner",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/deers/rare/preview.png?v=1766068988159",
                     "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
+                    "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "pe_reward08122025_10",
-                "requiredLevel": 10,
+                "code": "call_of_the_wild_pe-17lvl-booster-call_of_the_wild_pe_reward_17",
+                "requiredLevel": 17,
                 "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca5fd",
-                "itemCode": "pe_reward08122025_10",
+                "itemID": "695e6451eeb1519a98a3a13a",
+                "itemCode": "call_of_the_wild_pe_reward_17",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "GROWTH FERTILIZER",
+                "customTitle": "Patisson seed",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/common/preview.png?v=1709042580935",
-                    "previewCount": "15",
-                    "previewDescription": "",
-                    "color": ""
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/patisson/rare/preview.png?v=1764249919531",
+                    "previewCount": "1",
+                    "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "pe_reward08122025_11",
-                "requiredLevel": 11,
+                "code": "call_of_the_wild_pe-18lvl-booster-call_of_the_wild_pe_reward_18",
+                "requiredLevel": 18,
                 "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca5ff",
-                "itemCode": "pe_reward08122025_11",
+                "itemID": "695e646caa33d0320e309db8",
+                "itemCode": "call_of_the_wild_pe_reward_18",
                 "itemType": "booster",
                 "currency": "",
                 "customTitle": "PLASTIC PLOT",
                 "customMedia": {
                     "previewUrl": "https://static.chainers.io/media/farm/beds/basic/rare/preview.png?v=1708363019810",
                     "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "pe_reward08122025_12",
-                "requiredLevel": 12,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca601",
-                "itemCode": "pe_reward08122025_12",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Jack pumpkin seed",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/jack_pumpkin/rare/preview.png?v=1761664507965",
-                    "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
+                    "previewDescription": ""
                 },
                 "isFeatured": true
             },
             {
-                "code": "pe_reward08122025_13",
-                "requiredLevel": 13,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca603",
-                "itemCode": "pe_reward08122025_13",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "TOMATO SEED",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/tomato/epic/preview.png?v=1765456735579",
-                    "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "pe_reward08122025_14",
-                "requiredLevel": 14,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca605",
-                "itemCode": "pe_reward08122025_14",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Charlotte",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/piggies/common/preview.png?v=1760615289240",
-                    "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "pe_reward08122025_15",
-                "requiredLevel": 15,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca607",
-                "itemCode": "pe_reward08122025_15",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Cucumber seed",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/cucumber/rare/preview.png?v=1748876842137",
-                    "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "pe_reward08122025_16",
-                "requiredLevel": 16,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca609",
-                "itemCode": "pe_reward08122025_16",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "STONE PLOT",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/basic/legendary/preview.png?v=1708363019810",
-                    "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
-                },
-                "isFeatured": true
-            },
-            {
-                "code": "pe_reward08122025_17",
-                "requiredLevel": 17,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca60b",
-                "itemCode": "pe_reward08122025_17",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Peppa Prime",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/piggies/uncommon/preview.png?v=1763129500081",
-                    "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "pe_reward08122025_18",
-                "requiredLevel": 18,
-                "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca60d",
-                "itemCode": "pe_reward08122025_18",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Jacks Piggy Food",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/jack_truffle/uncommon/preview.png?v=1765456704229",
-                    "previewCount": "10",
-                    "previewDescription": "",
-                    "color": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "pe_reward08122025_19",
+                "code": "call_of_the_wild_pe-19lvl-booster-call_of_the_wild_pe_reward_19",
                 "requiredLevel": 19,
                 "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca60f",
-                "itemCode": "pe_reward08122025_19",
+                "itemID": "695e6489aa33d0320e309e18",
+                "itemCode": "call_of_the_wild_pe_reward_19",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "Sunflower seed",
+                "customTitle": "Deer food",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/sunflower/rare/preview.png?v=1732119698977",
-                    "previewCount": "1",
-                    "previewDescription": "",
-                    "color": ""
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/gingerbread/legendary/preview.png?v=1766068961755",
+                    "previewCount": "10",
+                    "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "pe_reward08122025_20",
+                "code": "call_of_the_wild_pe-20lvl-booster-call_of_the_wild_pe_reward_20",
                 "requiredLevel": 20,
                 "count": 1,
-                "itemID": "693abbcb20ff8ee70a5ca611",
-                "itemCode": "pe_reward08122025_20",
+                "itemID": "695e64a4eeb1519a98a3a1cd",
+                "itemCode": "call_of_the_wild_pe_reward_20",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "Marty McSwine",
+                "customTitle": "Blitzen charger",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/deers/legendary/preview.png?v=1765456665168",
-                    "previewCount": "10",
-                    "previewDescription": "max bp/min: 533",
-                    "color": ""
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/deers/epic/preview.png?v=1766068988159",
+                    "previewCount": "1",
+                    "previewDescription": "max bp/min: 245"
                 },
                 "isFeatured": false
             }
@@ -375,98 +355,98 @@
             },
             {
                 "level": 2,
-                "requiredXp": 1000,
-                "levelXp": 400
+                "requiredXp": 1010,
+                "levelXp": 410
             },
             {
                 "level": 3,
-                "requiredXp": 2200,
-                "levelXp": 1200
+                "requiredXp": 2190,
+                "levelXp": 1180
             },
             {
                 "level": 4,
-                "requiredXp": 4700,
-                "levelXp": 2500
+                "requiredXp": 4680,
+                "levelXp": 2490
             },
             {
                 "level": 5,
-                "requiredXp": 7000,
+                "requiredXp": 6980,
                 "levelXp": 2300
             },
             {
                 "level": 6,
-                "requiredXp": 8600,
-                "levelXp": 1600
+                "requiredXp": 8560,
+                "levelXp": 1580
             },
             {
                 "level": 7,
-                "requiredXp": 13100,
-                "levelXp": 4500
+                "requiredXp": 13080,
+                "levelXp": 4520
             },
             {
                 "level": 8,
-                "requiredXp": 22600,
-                "levelXp": 9500
+                "requiredXp": 22630,
+                "levelXp": 9550
             },
             {
                 "level": 9,
-                "requiredXp": 31500,
-                "levelXp": 8900
+                "requiredXp": 31480,
+                "levelXp": 8850
             },
             {
                 "level": 10,
-                "requiredXp": 37700,
-                "levelXp": 6200
+                "requiredXp": 37550,
+                "levelXp": 6070
             },
             {
                 "level": 11,
-                "requiredXp": 55100,
-                "levelXp": 17400
+                "requiredXp": 54910,
+                "levelXp": 17360
             },
             {
                 "level": 12,
-                "requiredXp": 91500,
-                "levelXp": 36400
+                "requiredXp": 91600,
+                "levelXp": 36690
             },
             {
                 "level": 13,
-                "requiredXp": 125500,
-                "levelXp": 34000
+                "requiredXp": 125620,
+                "levelXp": 34020
             },
             {
                 "level": 14,
-                "requiredXp": 149300,
-                "levelXp": 23800
+                "requiredXp": 148960,
+                "levelXp": 23340
             },
             {
                 "level": 15,
-                "requiredXp": 216000,
-                "levelXp": 66700
+                "requiredXp": 215630,
+                "levelXp": 66670
             },
             {
                 "level": 16,
-                "requiredXp": 356000,
-                "levelXp": 140000
+                "requiredXp": 356570,
+                "levelXp": 140940
             },
             {
                 "level": 17,
-                "requiredXp": 486700,
-                "levelXp": 130700
+                "requiredXp": 487250,
+                "levelXp": 130680
             },
             {
                 "level": 18,
-                "requiredXp": 578200,
-                "levelXp": 91500
+                "requiredXp": 576890,
+                "levelXp": 89640
             },
             {
                 "level": 19,
-                "requiredXp": 834300,
-                "levelXp": 256100
+                "requiredXp": 833020,
+                "levelXp": 256130
             },
             {
                 "level": 20,
-                "requiredXp": 1372200,
-                "levelXp": 537900
+                "requiredXp": 1374470,
+                "levelXp": 541450
             }
         ]
     }
