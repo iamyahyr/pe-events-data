@@ -2,116 +2,116 @@
     "success": true,
     "data": {
         "event": {
-            "id": "6974ec51d93013f95ee4a451",
-            "code": "treasure_hunt_pe",
+            "id": "698c54d01731f56d604aea17",
+            "code": "valentine_pe_2026",
             "title": {
-                "en": "Treasure Hunt",
-                "es": "Búsqueda del Tesoro",
-                "pt": "Caça ao Tesouro"
+                "en": "Valentine`s day",
+                "es": "Día de San Valentín",
+                "pt": "Dia Dos Namorados"
             },
             "description": {
-                "en": "Climb to the top of the treasure, every step gives you rewards.",
-                "es": "Asciende hasta la cima del tesoro, cada paso te da recompensas.",
-                "pt": "Suba ao topo do tesouro, cada passo lhe dá recompensas."
+                "en": "Collect the maximum rewards — Valentine is already waiting for you",
+                "es": "Reúne el máximo de recompensas — Valentine ya te está esperando",
+                "pt": "Reúna o máximo de recompensas — Valentine já está esperando por você"
             },
-            "endDate": "2026-01-31T23:59:59.000Z",
+            "endDate": "2026-02-15T23:59:59.000Z",
             "maxMultiplier": 1000000,
             "maxLevel": 21,
             "media": {
                 "backgroundImageURL": {
-                    "en": "https://static.chainers.io/media/pe/6974ec51d93013f95ee4a451/progression-event-bg-en.png",
-                    "es": "https://static.chainers.io/media/pe/6974ec51d93013f95ee4a451/progression-event-bg-es.png",
-                    "pt": "https://static.chainers.io/media/pe/6974ec51d93013f95ee4a451/progression-event-bg-pt.png"
+                    "en": "https://static.chainers.io/media/pe/698c54d01731f56d604aea17/progression-event-bg-en.png",
+                    "es": "https://static.chainers.io/media/pe/698c54d01731f56d604aea17/progression-event-bg-es.png",
+                    "pt": "https://static.chainers.io/media/pe/698c54d01731f56d604aea17/progression-event-bg-pt.png"
                 }
             }
         },
         "rewards": [
             {
-                "code": "treasure_hunt_pe-1lvl-booster-treasure_hunt_pe_reward_1",
+                "code": "valentine_pe_2026-1lvl-booster-valentine_pe_2026_reward_1",
                 "requiredLevel": 1,
                 "count": 1,
-                "itemID": "6974e877d93013f95ee49ef4",
-                "itemCode": "treasure_hunt_pe_reward_1",
+                "itemID": "698dd80ec917a9fb2ecc4174",
+                "itemCode": "valentine_pe_2026_reward_1",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "GROWTH FERTILIZER",
+                "customTitle": "Heartbreaker Stockings",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/common/preview.png?v=1709042580935",
-                    "previewCount": "5",
-                    "previewDescription": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "treasure_hunt_pe-2lvl-booster-treasure_hunt_pe_reward_2",
-                "requiredLevel": 2,
-                "count": 1,
-                "itemID": "6974e8abd93013f95ee49f33",
-                "itemCode": "treasure_hunt_pe_reward_2",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "TOMATO SEED",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/tomato/common/preview.png?v=1765456735579",
+                    "previewUrl": "https://static.chainers.io/media/components/heartbreaker_stockings/preview.jpg?v=1770902804430",
                     "previewCount": "1",
                     "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "treasure_hunt_pe-3lvl-booster-treasure_hunt_pe_reward_3",
-                "requiredLevel": 3,
+                "code": "valentine_pe_2026-2lvl-booster-valentine_pe_2026_reward_2",
+                "requiredLevel": 2,
                 "count": 1,
-                "itemID": "6974e8cec9a2bf37ef9f9657",
-                "itemCode": "treasure_hunt_pe_reward_3",
+                "itemID": "698dd7f61731f56d604b2a11",
+                "itemCode": "valentine_pe_2026_reward_2",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "Mint seed",
+                "customTitle": "Heartbreaker Shirt",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/mint/rare/preview.png?v=1748876842138",
+                    "previewUrl": "https://static.chainers.io/media/components/heartbreaker_shirt/preview.jpg?v=1770902804430",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "valentine_pe_2026-3lvl-booster-valentine_pe_2026_reward_3",
+                "requiredLevel": 3,
+                "count": 1,
+                "itemID": "698dc5a7c917a9fb2ecc385b",
+                "itemCode": "valentine_pe_2026_reward_3",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Sunflower seed",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/sunflower/rare/preview.png?v=1732119698977",
                     "previewCount": "1",
                     "previewDescription": ""
                 },
                 "isFeatured": true
             },
             {
-                "code": "treasure_hunt_pe-4lvl-booster-treasure_hunt_pe_reward_4",
+                "code": "valentine_pe_2026-4lvl-booster-valentine_pe_2026_reward_4",
                 "requiredLevel": 4,
                 "count": 1,
-                "itemID": "6974e8e9d93013f95ee49fb4",
-                "itemCode": "treasure_hunt_pe_reward_4",
+                "itemID": "698dd7dec917a9fb2ecc40f2",
+                "itemCode": "valentine_pe_2026_reward_4",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "LEGENDARY GROWTH FERTILIZER",
+                "customTitle": "Heartbreaker Bow",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/legendary/preview.png?v=1752764673781",
-                    "previewCount": "10",
-                    "previewDescription": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "treasure_hunt_pe-5lvl-booster-treasure_hunt_pe_reward_5",
-                "requiredLevel": 5,
-                "count": 1,
-                "itemID": "6974e8ffc9a2bf37ef9f96da",
-                "itemCode": "treasure_hunt_pe_reward_5",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "TOMATO SEED",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/tomato/uncommon/preview.png?v=1765456735579",
+                    "previewUrl": "https://static.chainers.io/media/components/heartbreaker_bow/preview.jpg?v=1770902804430",
                     "previewCount": "1",
                     "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "treasure_hunt_pe-6lvl-booster-treasure_hunt_pe_reward_6",
+                "code": "valentine_pe_2026-5lvl-booster-valentine_pe_2026_reward_5",
+                "requiredLevel": 5,
+                "count": 1,
+                "itemID": "698dc5cb1731f56d604b222f",
+                "itemCode": "valentine_pe_2026_reward_5",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Piggy food",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/truffle/uncommon/preview.png?v=1765456704229",
+                    "previewCount": "3",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "valentine_pe_2026-6lvl-booster-valentine_pe_2026_reward_6",
                 "requiredLevel": 6,
                 "count": 1,
-                "itemID": "6974e923d93013f95ee4a036",
-                "itemCode": "treasure_hunt_pe_reward_6",
+                "itemID": "698dc5ea1731f56d604b226d",
+                "itemCode": "valentine_pe_2026_reward_6",
                 "itemType": "booster",
                 "currency": "",
                 "customTitle": "Melon seed",
@@ -123,139 +123,43 @@
                 "isFeatured": true
             },
             {
-                "code": "treasure_hunt_pe-7lvl-booster-treasure_hunt_pe_reward_7",
+                "code": "valentine_pe_2026-7lvl-booster-valentine_pe_2026_reward_7",
                 "requiredLevel": 7,
                 "count": 1,
-                "itemID": "6974e940c9a2bf37ef9f975b",
-                "itemCode": "treasure_hunt_pe_reward_7",
+                "itemID": "698dd7b21731f56d604b298e",
+                "itemCode": "valentine_pe_2026_reward_7",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "GROWTH FERTILIZER",
+                "customTitle": "Valenpants",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/common/preview.png?v=1709042580935",
-                    "previewCount": "15",
+                    "previewUrl": "https://static.chainers.io/media/components/valenpants_bot/preview.jpg?v=1770902804430",
+                    "previewCount": "1",
                     "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "treasure_hunt_pe-8lvl-booster-treasure_hunt_pe_reward_8",
+                "code": "valentine_pe_2026-8lvl-booster-valentine_pe_2026_reward_8",
                 "requiredLevel": 8,
                 "count": 1,
-                "itemID": "6974e95ed93013f95ee4a0b9",
-                "itemCode": "treasure_hunt_pe_reward_8",
+                "itemID": "698dc662c917a9fb2ecc3932",
+                "itemCode": "valentine_pe_2026_reward_8",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "TOMATO SEED",
+                "customTitle": "Jacks Piggy Food",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/tomato/rare/preview.png?v=1765456735579",
-                    "previewCount": "1",
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/jack_truffle/common/preview.png?v=1763129500082",
+                    "previewCount": "5",
                     "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "treasure_hunt_pe-9lvl-booster-treasure_hunt_pe_reward_9",
+                "code": "valentine_pe_2026-9lvl-booster-valentine_pe_2026_reward_9",
                 "requiredLevel": 9,
                 "count": 1,
-                "itemID": "6974e97ac9a2bf37ef9f97fe",
-                "itemCode": "treasure_hunt_pe_reward_9",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Pineapple seed",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/pineapple/rare/preview.png?v=1753368432262",
-                    "previewCount": "1",
-                    "previewDescription": ""
-                },
-                "isFeatured": true
-            },
-            {
-                "code": "treasure_hunt_pe-10lvl-booster-treasure_hunt_pe_reward_10",
-                "requiredLevel": 10,
-                "count": 1,
-                "itemID": "6974e9afd93013f95ee4a15f",
-                "itemCode": "treasure_hunt_pe_reward_10",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "TOMATO SEED",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/tomato/epic/preview.png?v=1765456735579",
-                    "previewCount": "1",
-                    "previewDescription": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "treasure_hunt_pe-11lvl-booster-treasure_hunt_pe_reward_11",
-                "requiredLevel": 11,
-                "count": 1,
-                "itemID": "6974e9ccc9a2bf37ef9f9890",
-                "itemCode": "treasure_hunt_pe_reward_11",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "LEGENDARY GROWTH FERTILIZER",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/legendary/preview.png?v=1752764673781",
-                    "previewCount": "20",
-                    "previewDescription": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "treasure_hunt_pe-12lvl-booster-treasure_hunt_pe_reward_12",
-                "requiredLevel": 12,
-                "count": 1,
-                "itemID": "6974e9e7c9a2bf37ef9f98cf",
-                "itemCode": "treasure_hunt_pe_reward_12",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "White lily seed",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/white_lily/rare/preview.png?v=1744896814033",
-                    "previewCount": "1",
-                    "previewDescription": ""
-                },
-                "isFeatured": true
-            },
-            {
-                "code": "treasure_hunt_pe-13lvl-booster-treasure_hunt_pe_reward_13",
-                "requiredLevel": 13,
-                "count": 1,
-                "itemID": "6974e9ffd93013f95ee4a224",
-                "itemCode": "treasure_hunt_pe_reward_13",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "CARDBOARD PLOT",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/basic/common/preview.png?v=1708363019810",
-                    "previewCount": "1",
-                    "previewDescription": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "treasure_hunt_pe-14lvl-booster-treasure_hunt_pe_reward_14",
-                "requiredLevel": 14,
-                "count": 1,
-                "itemID": "6974ea23c9a2bf37ef9f9951",
-                "itemCode": "treasure_hunt_pe_reward_14",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "TOMATO SEED",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/tomato/legendary/preview.png?v=1765456735579",
-                    "previewCount": "1",
-                    "previewDescription": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "treasure_hunt_pe-15lvl-booster-treasure_hunt_pe_reward_15",
-                "requiredLevel": 15,
-                "count": 1,
-                "itemID": "6974ea58c9a2bf37ef9f99e5",
-                "itemCode": "treasure_hunt_pe_reward_15",
+                "itemID": "698dc699c917a9fb2ecc39c1",
+                "itemCode": "valentine_pe_2026_reward_9",
                 "itemType": "booster",
                 "currency": "",
                 "customTitle": "Jack pumpkin seed",
@@ -267,11 +171,107 @@
                 "isFeatured": true
             },
             {
-                "code": "treasure_hunt_pe-16lvl-booster-treasure_hunt_pe_reward_16",
+                "code": "valentine_pe_2026-10lvl-booster-valentine_pe_2026_reward_10",
+                "requiredLevel": 10,
+                "count": 1,
+                "itemID": "698dd7941731f56d604b294f",
+                "itemCode": "valentine_pe_2026_reward_10",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Valenshirt",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/components/valenshirt_top/preview.jpg?v=1770902804430",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "valentine_pe_2026-11lvl-booster-valentine_pe_2026_reward_11",
+                "requiredLevel": 11,
+                "count": 1,
+                "itemID": "698dc6c8c917a9fb2ecc3a21",
+                "itemCode": "valentine_pe_2026_reward_11",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Piggy food",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/truffle/rare/preview.png?v=1765456704229",
+                    "previewCount": "5",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "valentine_pe_2026-12lvl-booster-valentine_pe_2026_reward_12",
+                "requiredLevel": 12,
+                "count": 1,
+                "itemID": "698dc6e31731f56d604b23ab",
+                "itemCode": "valentine_pe_2026_reward_12",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Charlotte",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/piggies/common/preview.png?v=1760615289240",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": true
+            },
+            {
+                "code": "valentine_pe_2026-13lvl-booster-valentine_pe_2026_reward_13",
+                "requiredLevel": 13,
+                "count": 1,
+                "itemID": "698dc6fbc917a9fb2ecc3aa3",
+                "itemCode": "valentine_pe_2026_reward_13",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "CARDBOARD PLOT",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/basic/common/preview.png?v=1708363019810",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "valentine_pe_2026-14lvl-booster-valentine_pe_2026_reward_14",
+                "requiredLevel": 14,
+                "count": 1,
+                "itemID": "698dc7291731f56d604b244f",
+                "itemCode": "valentine_pe_2026_reward_14",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Jacks Piggy Food",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/jack_truffle/uncommon/preview.png?v=1765456704229",
+                    "previewCount": "5",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "valentine_pe_2026-15lvl-booster-valentine_pe_2026_reward_15",
+                "requiredLevel": 15,
+                "count": 1,
+                "itemID": "698dc7481731f56d604b248e",
+                "itemCode": "valentine_pe_2026_reward_15",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Peppa Prime",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/piggies/uncommon/preview.png?v=1763129500081",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": true
+            },
+            {
+                "code": "valentine_pe_2026-16lvl-booster-valentine_pe_2026_reward_16",
                 "requiredLevel": 16,
                 "count": 1,
-                "itemID": "6974ea75d93013f95ee4a2e8",
-                "itemCode": "treasure_hunt_pe_reward_16",
+                "itemID": "698dc76c1731f56d604b24dd",
+                "itemCode": "valentine_pe_2026_reward_16",
                 "itemType": "booster",
                 "currency": "",
                 "customTitle": "WOOD PLOT",
@@ -283,82 +283,82 @@
                 "isFeatured": false
             },
             {
-                "code": "treasure_hunt_pe-17lvl-booster-treasure_hunt_pe_reward_17",
+                "code": "valentine_pe_2026-17lvl-booster-valentine_pe_2026_reward_17",
                 "requiredLevel": 17,
                 "count": 1,
-                "itemID": "6974ea94c9a2bf37ef9f9a68",
-                "itemCode": "treasure_hunt_pe_reward_17",
+                "itemID": "698dd77a1731f56d604b2911",
+                "itemCode": "valentine_pe_2026_reward_17",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "PLASTIC PLOT",
+                "customTitle": "Piggy food",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/basic/rare/preview.png?v=1708363019810",
-                    "previewCount": "1",
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/truffle/epic/preview.png?v=1770902738121",
+                    "previewCount": "5",
                     "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "treasure_hunt_pe-18lvl-booster-treasure_hunt_pe_reward_18",
+                "code": "valentine_pe_2026-18lvl-booster-valentine_pe_2026_reward_18",
                 "requiredLevel": 18,
                 "count": 1,
-                "itemID": "6974eaadc9a2bf37ef9f9aa7",
-                "itemCode": "treasure_hunt_pe_reward_18",
+                "itemID": "698dc78ac917a9fb2ecc3bab",
+                "itemCode": "valentine_pe_2026_reward_18",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "Patisson seed",
+                "customTitle": "Marty McSwine",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/patisson/rare/preview.png?v=1764249919531",
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/piggies/rare/preview.png?v=1765456665168",
                     "previewCount": "1",
                     "previewDescription": ""
                 },
                 "isFeatured": true
             },
             {
-                "code": "treasure_hunt_pe-19lvl-booster-treasure_hunt_pe_reward_19",
+                "code": "valentine_pe_2026-19lvl-booster-valentine_pe_2026_reward_19",
                 "requiredLevel": 19,
                 "count": 1,
-                "itemID": "6974eac7d93013f95ee4a3ad",
-                "itemCode": "treasure_hunt_pe_reward_19",
+                "itemID": "698dd75d1731f56d604b28d3",
+                "itemCode": "valentine_pe_2026_reward_19",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "Star anise seeds",
+                "customTitle": "Valenhat",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/star_anise/rare/preview.png?v=1769011004250",
+                    "previewUrl": "https://static.chainers.io/media/components/valenhat_hat/preview.jpg?v=1770902804430",
                     "previewCount": "1",
                     "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "treasure_hunt_pe-20lvl-booster-treasure_hunt_pe_reward_20",
+                "code": "valentine_pe_2026-20lvl-booster-valentine_pe_2026_reward_20",
                 "requiredLevel": 20,
                 "count": 1,
-                "itemID": "6974eae6c9a2bf37ef9f9b29",
-                "itemCode": "treasure_hunt_pe_reward_20",
+                "itemID": "698dd7421731f56d604b2894",
+                "itemCode": "valentine_pe_2026_reward_20",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "STONE PLOT",
+                "customTitle": "Jacks piggy food",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/basic/legendary/preview.png?v=1708363019810",
-                    "previewCount": "1",
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/jack_truffle/rare/preview.png?v=1770902738121",
+                    "previewCount": "5",
                     "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "treasure_hunt_pe-21lvl-booster-treasure_hunt_pe_reward_20",
+                "code": "valentine_pe_2026-21lvl-booster-valentine_pe_2026_reward_21",
                 "requiredLevel": 21,
                 "count": 1,
-                "itemID": "6974eae6c9a2bf37ef9f9b29",
-                "itemCode": "treasure_hunt_pe_reward_20",
+                "itemID": "698dd7251731f56d604b2855",
+                "itemCode": "valentine_pe_2026_reward_21",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "STONE PLOT",
+                "customTitle": "Valentine",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/basic/legendary/preview.png?v=1708363019810",
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/piggies/epic/preview.png?v=1770902719341",
                     "previewCount": "1",
-                    "previewDescription": ""
+                    "previewDescription": "max bp/min: 714"
                 },
                 "isFeatured": false
             }
@@ -366,108 +366,108 @@
         "levelsConfig": [
             {
                 "level": 1,
-                "requiredXp": 500,
-                "levelXp": 500
+                "requiredXp": 410,
+                "levelXp": 410
             },
             {
                 "level": 2,
-                "requiredXp": 1200,
-                "levelXp": 700
+                "requiredXp": 980,
+                "levelXp": 570
             },
             {
                 "level": 3,
-                "requiredXp": 2800,
-                "levelXp": 1600
+                "requiredXp": 2570,
+                "levelXp": 1590
             },
             {
                 "level": 4,
-                "requiredXp": 4100,
-                "levelXp": 1300
+                "requiredXp": 3680,
+                "levelXp": 1110
             },
             {
                 "level": 5,
-                "requiredXp": 5800,
-                "levelXp": 1700
+                "requiredXp": 5220,
+                "levelXp": 1540
             },
             {
                 "level": 6,
-                "requiredXp": 10000,
-                "levelXp": 4200
+                "requiredXp": 9500,
+                "levelXp": 4280
             },
             {
                 "level": 7,
-                "requiredXp": 13300,
-                "levelXp": 3300
+                "requiredXp": 12480,
+                "levelXp": 2980
             },
             {
                 "level": 8,
-                "requiredXp": 17900,
-                "levelXp": 4600
+                "requiredXp": 16620,
+                "levelXp": 4140
             },
             {
                 "level": 9,
-                "requiredXp": 28900,
-                "levelXp": 11000
+                "requiredXp": 28120,
+                "levelXp": 11500
             },
             {
                 "level": 10,
-                "requiredXp": 37600,
-                "levelXp": 8700
+                "requiredXp": 36110,
+                "levelXp": 7990
             },
             {
                 "level": 11,
-                "requiredXp": 49600,
-                "levelXp": 12000
+                "requiredXp": 47220,
+                "levelXp": 11110
             },
             {
                 "level": 12,
-                "requiredXp": 78600,
-                "levelXp": 29000
+                "requiredXp": 78100,
+                "levelXp": 30880
             },
             {
                 "level": 13,
-                "requiredXp": 101500,
-                "levelXp": 22900
+                "requiredXp": 99560,
+                "levelXp": 21460
             },
             {
                 "level": 14,
-                "requiredXp": 133100,
-                "levelXp": 31600
+                "requiredXp": 129390,
+                "levelXp": 29830
             },
             {
                 "level": 15,
-                "requiredXp": 209400,
-                "levelXp": 76300
+                "requiredXp": 212310,
+                "levelXp": 82920
             },
             {
                 "level": 16,
-                "requiredXp": 269600,
-                "levelXp": 60200
+                "requiredXp": 269940,
+                "levelXp": 57630
             },
             {
                 "level": 17,
-                "requiredXp": 352600,
-                "levelXp": 83000
+                "requiredXp": 350050,
+                "levelXp": 80110
             },
             {
                 "level": 18,
-                "requiredXp": 553200,
-                "levelXp": 200600
+                "requiredXp": 572740,
+                "levelXp": 222690
             },
             {
                 "level": 19,
-                "requiredXp": 711300,
-                "levelXp": 158100
+                "requiredXp": 727510,
+                "levelXp": 154770
             },
             {
                 "level": 20,
-                "requiredXp": 929500,
-                "levelXp": 218200
+                "requiredXp": 942640,
+                "levelXp": 215130
             },
             {
                 "level": 21,
-                "requiredXp": 1456600,
-                "levelXp": 527100
+                "requiredXp": 1540710,
+                "levelXp": 598070
             }
         ]
     }
