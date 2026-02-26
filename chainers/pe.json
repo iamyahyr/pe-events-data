@@ -2,68 +2,68 @@
     "success": true,
     "data": {
         "event": {
-            "id": "69934b3ea53b5428003d756d",
-            "code": "dragon_sentinels_pe_2026",
+            "id": "69a03e45afbeabc093cdeba7",
+            "code": "legacy_of_chainerys_pe2026",
             "title": {
-                "en": "Dragon Sentinels",
-                "es": "Dragon Sentinels",
-                "pt": "Dragon Sentinels"
+                "en": "Legacy of Chainerys",
+                "es": "Legado de Chainerys",
+                "pt": "Legado de Chainerys"
             },
             "description": {
-                "en": "Climb to the top of the treasure, every step gives you rewards.",
-                "es": "Asciende hasta la cima del tesoro, cada paso te da recompensas.",
-                "pt": "Suba ao topo do tesouro, cada passo lhe dá recompensas."
+                "en": "Collect a legendary legacy, step by step.",
+                "es": "Colecciona un legado legendario, paso a paso.",
+                "pt": "Colecione um legado lendário, passo a passo."
             },
-            "endDate": "2026-02-22T23:59:59.000Z",
+            "endDate": "2026-03-01T23:59:59.000Z",
             "maxMultiplier": 1000000,
-            "maxLevel": 21,
+            "maxLevel": 20,
             "media": {
                 "backgroundImageURL": {
-                    "en": "https://static.chainers.io/media/pe/69934b3ea53b5428003d756d/progression-event-bg-en.png",
-                    "es": "https://static.chainers.io/media/pe/69934b3ea53b5428003d756d/progression-event-bg-es.png",
-                    "pt": "https://static.chainers.io/media/pe/69934b3ea53b5428003d756d/progression-event-bg-pt.png"
+                    "en": "https://static.chainers.io/media/pe/69a03e45afbeabc093cdeba7/progression-event-bg-en.png",
+                    "es": "https://static.chainers.io/media/pe/69a03e45afbeabc093cdeba7/progression-event-bg-es.png",
+                    "pt": "https://static.chainers.io/media/pe/69a03e45afbeabc093cdeba7/progression-event-bg-pt.png"
                 }
             }
         },
         "rewards": [
             {
-                "code": "dragon_sentinels_pe_2026-1lvl-booster-dragon_sentinels_pe_2026_reward_1",
+                "code": "legacy_of_chainerys_pe2026-1lvl-booster-legacy_of_chainerys_pe2026_reward_1",
                 "requiredLevel": 1,
                 "count": 1,
-                "itemID": "699341afb7ed98dd19cd40f8",
-                "itemCode": "dragon_sentinels_pe_2026_reward_1",
+                "itemID": "69a0394cafbeabc093cde641",
+                "itemCode": "legacy_of_chainerys_pe2026_reward_1",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "GROWTH FERTILIZER",
+                "customTitle": "Patisson seed",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/common/preview.png?v=1709042580935",
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/patisson/common/preview.png?v=1764249919531",
                     "previewCount": "1",
                     "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "dragon_sentinels_pe_2026-2lvl-booster-dragon_sentinels_pe_2026_reward_2",
+                "code": "legacy_of_chainerys_pe2026-2lvl-booster-legacy_of_chainerys_pe2026_reward_2",
                 "requiredLevel": 2,
                 "count": 1,
-                "itemID": "699341d0a53b5428003d6e72",
-                "itemCode": "dragon_sentinels_pe_2026_reward_2",
+                "itemID": "69a03961afbeabc093cde68f",
+                "itemCode": "legacy_of_chainerys_pe2026_reward_2",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "TOMATO SEED",
+                "customTitle": "Star anise seeds",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/tomato/common/preview.png?v=1765456735579",
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/star_anise/common/preview.png?v=1769011004250",
                     "previewCount": "1",
                     "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "dragon_sentinels_pe_2026-3lvl-booster-dragon_sentinels_pe_2026_reward_3",
+                "code": "legacy_of_chainerys_pe2026-3lvl-booster-legacy_of_chainerys_pe2026_reward_3",
                 "requiredLevel": 3,
                 "count": 1,
-                "itemID": "69946090a53b5428003d8365",
-                "itemCode": "dragon_sentinels_pe_2026_reward_3",
+                "itemID": "69a0397eafbeabc093cde6dd",
+                "itemCode": "legacy_of_chainerys_pe2026_reward_3",
                 "itemType": "booster",
                 "currency": "",
                 "customTitle": "Dragon fruit seeds",
@@ -72,142 +72,14 @@
                     "previewCount": "1",
                     "previewDescription": ""
                 },
-                "isFeatured": true
+                "isFeatured": false
             },
             {
-                "code": "dragon_sentinels_pe_2026-4lvl-booster-dragon_sentinels_pe_2026_reward_4",
+                "code": "legacy_of_chainerys_pe2026-4lvl-booster-legacy_of_chainerys_pe2026_reward_4",
                 "requiredLevel": 4,
                 "count": 1,
-                "itemID": "69934351b7ed98dd19cd4278",
-                "itemCode": "dragon_sentinels_pe_2026_reward_4",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "LEGENDARY GROWTH FERTILIZER",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/legendary/preview.png?v=1752764673781",
-                    "previewCount": "1",
-                    "previewDescription": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "dragon_sentinels_pe_2026-5lvl-booster-dragon_sentinels_pe_2026_reward_5",
-                "requiredLevel": 5,
-                "count": 1,
-                "itemID": "6993436db7ed98dd19cd42ea",
-                "itemCode": "dragon_sentinels_pe_2026_reward_5",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "TOMATO SEED",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/tomato/uncommon/preview.png?v=1765456735579",
-                    "previewCount": "1",
-                    "previewDescription": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "dragon_sentinels_pe_2026-6lvl-booster-dragon_sentinels_pe_2026_reward_6",
-                "requiredLevel": 6,
-                "count": 1,
-                "itemID": "69934383b7ed98dd19cd435b",
-                "itemCode": "dragon_sentinels_pe_2026_reward_6",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Chinchilla",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/fuzzies/common/preview.png?v=1742480059907",
-                    "previewCount": "1",
-                    "previewDescription": ""
-                },
-                "isFeatured": true
-            },
-            {
-                "code": "dragon_sentinels_pe_2026-7lvl-booster-dragon_sentinels_pe_2026_reward_7",
-                "requiredLevel": 7,
-                "count": 1,
-                "itemID": "6993439eb7ed98dd19cd43cc",
-                "itemCode": "dragon_sentinels_pe_2026_reward_7",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "GROWTH FERTILIZER",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/common/preview.png?v=1709042580935",
-                    "previewCount": "3",
-                    "previewDescription": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "dragon_sentinels_pe_2026-8lvl-booster-dragon_sentinels_pe_2026_reward_8",
-                "requiredLevel": 8,
-                "count": 1,
-                "itemID": "699343b8b7ed98dd19cd443d",
-                "itemCode": "dragon_sentinels_pe_2026_reward_8",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "TOMATO SEED",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/tomato/rare/preview.png?v=1765456735579",
-                    "previewCount": "1",
-                    "previewDescription": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "dragon_sentinels_pe_2026-9lvl-booster-dragon_sentinels_pe_2026_reward_9",
-                "requiredLevel": 9,
-                "count": 1,
-                "itemID": "699343d5a53b5428003d6f8c",
-                "itemCode": "dragon_sentinels_pe_2026_reward_9",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Angora rabbit",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/fuzzies/uncommon/preview.png?v=1742480059907",
-                    "previewCount": "1",
-                    "previewDescription": ""
-                },
-                "isFeatured": true
-            },
-            {
-                "code": "dragon_sentinels_pe_2026-10lvl-booster-dragon_sentinels_pe_2026_reward_10",
-                "requiredLevel": 10,
-                "count": 1,
-                "itemID": "699343f2a53b5428003d6ffd",
-                "itemCode": "dragon_sentinels_pe_2026_reward_10",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "LEGENDARY GROWTH FERTILIZER",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/legendary/preview.png?v=1752764673781",
-                    "previewCount": "3",
-                    "previewDescription": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "dragon_sentinels_pe_2026-11lvl-booster-dragon_sentinels_pe_2026_reward_11",
-                "requiredLevel": 11,
-                "count": 1,
-                "itemID": "6993444cb7ed98dd19cd44d1",
-                "itemCode": "dragon_sentinels_pe_2026_reward_11",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "TOMATO SEED",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/tomato/epic/preview.png?v=1765456735579",
-                    "previewCount": "1",
-                    "previewDescription": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "dragon_sentinels_pe_2026-12lvl-booster-dragon_sentinels_pe_2026_reward_12",
-                "requiredLevel": 12,
-                "count": 1,
-                "itemID": "6993446bb7ed98dd19cd4542",
-                "itemCode": "dragon_sentinels_pe_2026_reward_12",
+                "itemID": "69a03992afbeabc093cde71a",
+                "itemCode": "legacy_of_chainerys_pe2026_reward_4",
                 "itemType": "booster",
                 "currency": "",
                 "customTitle": "WOOD PLOT",
@@ -219,91 +91,59 @@
                 "isFeatured": true
             },
             {
-                "code": "dragon_sentinels_pe_2026-13lvl-booster-dragon_sentinels_pe_2026_reward_13",
-                "requiredLevel": 13,
+                "code": "legacy_of_chainerys_pe2026-5lvl-booster-legacy_of_chainerys_pe2026_reward_5",
+                "requiredLevel": 5,
                 "count": 1,
-                "itemID": "69934489b7ed98dd19cd4592",
-                "itemCode": "dragon_sentinels_pe_2026_reward_13",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "GROWTH FERTILIZER",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/common/preview.png?v=1709042580935",
-                    "previewCount": "5",
-                    "previewDescription": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "dragon_sentinels_pe_2026-14lvl-booster-dragon_sentinels_pe_2026_reward_14",
-                "requiredLevel": 14,
-                "count": 1,
-                "itemID": "699344a2b7ed98dd19cd4604",
-                "itemCode": "dragon_sentinels_pe_2026_reward_14",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Jack pumpkin seed",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/jack_pumpkin/rare/preview.png?v=1761664507965",
-                    "previewCount": "1",
-                    "previewDescription": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "dragon_sentinels_pe_2026-15lvl-booster-dragon_sentinels_pe_2026_reward_15",
-                "requiredLevel": 15,
-                "count": 1,
-                "itemID": "699344b9b7ed98dd19cd4675",
-                "itemCode": "dragon_sentinels_pe_2026_reward_15",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Black sheep",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/fuzzies/rare/preview.png?v=1742480059907",
-                    "previewCount": "1",
-                    "previewDescription": ""
-                },
-                "isFeatured": true
-            },
-            {
-                "code": "dragon_sentinels_pe_2026-16lvl-booster-dragon_sentinels_pe_2026_reward_16",
-                "requiredLevel": 16,
-                "count": 1,
-                "itemID": "699344e8a53b5428003d70c1",
-                "itemCode": "dragon_sentinels_pe_2026_reward_16",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "LEGENDARY GROWTH FERTILIZER",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/legendary/preview.png?v=1752764673781",
-                    "previewCount": "5",
-                    "previewDescription": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "dragon_sentinels_pe_2026-17lvl-booster-dragon_sentinels_pe_2026_reward_17",
-                "requiredLevel": 17,
-                "count": 1,
-                "itemID": "69934507b7ed98dd19cd46f7",
-                "itemCode": "dragon_sentinels_pe_2026_reward_17",
+                "itemID": "69a039aa78f2f667638e1fba",
+                "itemCode": "legacy_of_chainerys_pe2026_reward_5",
                 "itemType": "booster",
                 "currency": "",
                 "customTitle": "Patisson seed",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/patisson/rare/preview.png?v=1764249919531",
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/patisson/uncommon/preview.png?v=1764249919531",
                     "previewCount": "1",
                     "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "dragon_sentinels_pe_2026-18lvl-booster-dragon_sentinels_pe_2026_reward_18",
-                "requiredLevel": 18,
+                "code": "legacy_of_chainerys_pe2026-6lvl-booster-legacy_of_chainerys_pe2026_reward_6",
+                "requiredLevel": 6,
                 "count": 1,
-                "itemID": "69934573a53b5428003d7195",
-                "itemCode": "dragon_sentinels_pe_2026_reward_18",
+                "itemID": "69a039caafbeabc093cde79c",
+                "itemCode": "legacy_of_chainerys_pe2026_reward_6",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Star anise seeds",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/star_anise/uncommon/preview.png?v=1769011004250",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "legacy_of_chainerys_pe2026-7lvl-booster-legacy_of_chainerys_pe2026_reward_7",
+                "requiredLevel": 7,
+                "count": 1,
+                "itemID": "69a039e0afbeabc093cde7ea",
+                "itemCode": "legacy_of_chainerys_pe2026_reward_7",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Dragon fruit seeds",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/dragon_fruit/uncommon/preview.png?v=1771330226031",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "legacy_of_chainerys_pe2026-8lvl-booster-legacy_of_chainerys_pe2026_reward_8",
+                "requiredLevel": 8,
+                "count": 1,
+                "itemID": "69a039f4afbeabc093cde838",
+                "itemCode": "legacy_of_chainerys_pe2026_reward_8",
                 "itemType": "booster",
                 "currency": "",
                 "customTitle": "PLASTIC PLOT",
@@ -315,11 +155,91 @@
                 "isFeatured": true
             },
             {
-                "code": "dragon_sentinels_pe_2026-19lvl-booster-dragon_sentinels_pe_2026_reward_19",
-                "requiredLevel": 19,
+                "code": "legacy_of_chainerys_pe2026-9lvl-booster-legacy_of_chainerys_pe2026_reward_9",
+                "requiredLevel": 9,
                 "count": 1,
-                "itemID": "69934591b7ed98dd19cd47ad",
-                "itemCode": "dragon_sentinels_pe_2026_reward_19",
+                "itemID": "69a03a1878f2f667638e20b5",
+                "itemCode": "legacy_of_chainerys_pe2026_reward_9",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "LEGENDARY GROWTH FERTILIZER",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/legendary/preview.png?v=1752764673781",
+                    "previewCount": "3",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "legacy_of_chainerys_pe2026-10lvl-booster-legacy_of_chainerys_pe2026_reward_10",
+                "requiredLevel": 10,
+                "count": 1,
+                "itemID": "69a03a54afbeabc093cde8a8",
+                "itemCode": "legacy_of_chainerys_pe2026_reward_10",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Patisson seed",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/patisson/rare/preview.png?v=1764249919531",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "legacy_of_chainerys_pe2026-11lvl-booster-legacy_of_chainerys_pe2026_reward_11",
+                "requiredLevel": 11,
+                "count": 1,
+                "itemID": "69a03a6aafbeabc093cde8f6",
+                "itemCode": "legacy_of_chainerys_pe2026_reward_11",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "LEGENDARY GROWTH FERTILIZER",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/legendary/preview.png?v=1752764673781",
+                    "previewCount": "5",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "legacy_of_chainerys_pe2026-12lvl-booster-legacy_of_chainerys_pe2026_reward_12",
+                "requiredLevel": 12,
+                "count": 1,
+                "itemID": "69a03a82afbeabc093cde944",
+                "itemCode": "legacy_of_chainerys_pe2026_reward_12",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Patisson seed",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/patisson/epic/preview.png?v=1764249919531",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": true
+            },
+            {
+                "code": "legacy_of_chainerys_pe2026-13lvl-booster-legacy_of_chainerys_pe2026_reward_13",
+                "requiredLevel": 13,
+                "count": 1,
+                "itemID": "69a03a97afbeabc093cde981",
+                "itemCode": "legacy_of_chainerys_pe2026_reward_13",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "LEGENDARY GROWTH FERTILIZER",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/legendary/preview.png?v=1752764673781",
+                    "previewCount": "7",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "legacy_of_chainerys_pe2026-14lvl-booster-legacy_of_chainerys_pe2026_reward_14",
+                "requiredLevel": 14,
+                "count": 1,
+                "itemID": "69a03aaeafbeabc093cde9cf",
+                "itemCode": "legacy_of_chainerys_pe2026_reward_14",
                 "itemType": "booster",
                 "currency": "",
                 "customTitle": "Star anise seeds",
@@ -331,34 +251,98 @@
                 "isFeatured": false
             },
             {
-                "code": "dragon_sentinels_pe_2026-20lvl-booster-valentine_pe_2026_reward_20",
-                "requiredLevel": 20,
+                "code": "legacy_of_chainerys_pe2026-15lvl-booster-legacy_of_chainerys_pe2026_reward_15",
+                "requiredLevel": 15,
                 "count": 1,
-                "itemID": "698dd7421731f56d604b2894",
-                "itemCode": "valentine_pe_2026_reward_20",
+                "itemID": "69a03ac378f2f667638e21e5",
+                "itemCode": "legacy_of_chainerys_pe2026_reward_15",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "Jacks piggy food",
+                "customTitle": "LEGENDARY GROWTH FERTILIZER",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/jack_truffle/rare/preview.png?v=1770902738121",
-                    "previewCount": "5",
+                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/legendary/preview.png?v=1752764673781",
+                    "previewCount": "10",
                     "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "dragon_sentinels_pe_2026-21lvl-booster-dragon_sentinels_pe_2026_reward_21",
-                "requiredLevel": 21,
+                "code": "legacy_of_chainerys_pe2026-16lvl-booster-legacy_of_chainerys_pe2026_reward_16",
+                "requiredLevel": 16,
                 "count": 1,
-                "itemID": "699345cab7ed98dd19cd47fb",
-                "itemCode": "dragon_sentinels_pe_2026_reward_21",
+                "itemID": "69a03ae1afbeabc093cdea51",
+                "itemCode": "legacy_of_chainerys_pe2026_reward_16",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "Alpaca",
+                "customTitle": "Star anise seeds",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/fuzzies/epic/preview.png?v=1742480059907",
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/star_anise/epic/preview.png?v=1769011004250",
                     "previewCount": "1",
-                    "previewDescription": "max bp/min: 490"
+                    "previewDescription": ""
+                },
+                "isFeatured": true
+            },
+            {
+                "code": "legacy_of_chainerys_pe2026-17lvl-booster-legacy_of_chainerys_pe2026_reward_17",
+                "requiredLevel": 17,
+                "count": 1,
+                "itemID": "69a03af2afbeabc093cdea8e",
+                "itemCode": "legacy_of_chainerys_pe2026_reward_17",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "LEGENDARY GROWTH FERTILIZER",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/legendary/preview.png?v=1752764673781",
+                    "previewCount": "15",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "legacy_of_chainerys_pe2026-18lvl-booster-legacy_of_chainerys_pe2026_reward_18",
+                "requiredLevel": 18,
+                "count": 1,
+                "itemID": "69a03b0778f2f667638e228b",
+                "itemCode": "legacy_of_chainerys_pe2026_reward_18",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Dragon fruit seeds",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/dragon_fruit/rare/preview.png?v=1771330226031",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "legacy_of_chainerys_pe2026-19lvl-booster-legacy_of_chainerys_pe2026_reward_19",
+                "requiredLevel": 19,
+                "count": 1,
+                "itemID": "69a03b1fafbeabc093cdeb10",
+                "itemCode": "legacy_of_chainerys_pe2026_reward_19",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "METAL PLOT",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/basic/epic/preview.png?v=1708363019810",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "legacy_of_chainerys_pe2026-20lvl-booster-legacy_of_chainerys_pe2026_reward_20",
+                "requiredLevel": 20,
+                "count": 1,
+                "itemID": "69a03b3378f2f667638e230c",
+                "itemCode": "legacy_of_chainerys_pe2026_reward_20",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Dragon fruit seeds",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/dragon_fruit/epic/preview.png?v=1771330226031",
+                    "previewCount": "1",
+                    "previewDescription": ""
                 },
                 "isFeatured": false
             }
@@ -366,108 +350,103 @@
         "levelsConfig": [
             {
                 "level": 1,
-                "requiredXp": 650,
-                "levelXp": 650
+                "requiredXp": 920,
+                "levelXp": 920
             },
             {
                 "level": 2,
-                "requiredXp": 1510,
-                "levelXp": 860
+                "requiredXp": 1420,
+                "levelXp": 500
             },
             {
                 "level": 3,
-                "requiredXp": 4520,
-                "levelXp": 3010
+                "requiredXp": 3120,
+                "levelXp": 1700
             },
             {
                 "level": 4,
-                "requiredXp": 6050,
-                "levelXp": 1530
+                "requiredXp": 6820,
+                "levelXp": 3700
             },
             {
                 "level": 5,
-                "requiredXp": 8080,
-                "levelXp": 2030
+                "requiredXp": 9970,
+                "levelXp": 3150
             },
             {
                 "level": 6,
-                "requiredXp": 15150,
-                "levelXp": 7070
+                "requiredXp": 11680,
+                "levelXp": 1710
             },
             {
                 "level": 7,
-                "requiredXp": 18750,
-                "levelXp": 3600
+                "requiredXp": 17500,
+                "levelXp": 5820
             },
             {
                 "level": 8,
-                "requiredXp": 23530,
-                "levelXp": 4780
+                "requiredXp": 30170,
+                "levelXp": 12670
             },
             {
                 "level": 9,
-                "requiredXp": 40170,
-                "levelXp": 16640
+                "requiredXp": 40940,
+                "levelXp": 10770
             },
             {
                 "level": 10,
-                "requiredXp": 48630,
-                "levelXp": 8460
+                "requiredXp": 46800,
+                "levelXp": 5860
             },
             {
                 "level": 11,
-                "requiredXp": 59890,
-                "levelXp": 11260
-            },
-            {
-                "level": 12,
-                "requiredXp": 99050,
-                "levelXp": 39160
-            },
-            {
-                "level": 13,
-                "requiredXp": 118960,
+                "requiredXp": 66710,
                 "levelXp": 19910
             },
             {
+                "level": 12,
+                "requiredXp": 110040,
+                "levelXp": 43330
+            },
+            {
+                "level": 13,
+                "requiredXp": 146870,
+                "levelXp": 36830
+            },
+            {
                 "level": 14,
-                "requiredXp": 145440,
-                "levelXp": 26480
+                "requiredXp": 166910,
+                "levelXp": 20040
             },
             {
                 "level": 15,
-                "requiredXp": 237560,
-                "levelXp": 92120
+                "requiredXp": 235040,
+                "levelXp": 68130
             },
             {
                 "level": 16,
-                "requiredXp": 284410,
-                "levelXp": 46850
+                "requiredXp": 383290,
+                "levelXp": 148250
             },
             {
                 "level": 17,
-                "requiredXp": 346720,
-                "levelXp": 62310
+                "requiredXp": 509300,
+                "levelXp": 126010
             },
             {
                 "level": 18,
-                "requiredXp": 563450,
-                "levelXp": 216730
+                "requiredXp": 577850,
+                "levelXp": 68550
             },
             {
                 "level": 19,
-                "requiredXp": 673670,
-                "levelXp": 110220
+                "requiredXp": 810920,
+                "levelXp": 233070
             },
             {
                 "level": 20,
-                "requiredXp": 820260,
-                "levelXp": 146590
-            },
-            {
-                "level": 21,
-                "requiredXp": 1330160,
-                "levelXp": 509900
+                "requiredXp": 1318080,
+                "levelXp": 507160
             }
         ]
     }
