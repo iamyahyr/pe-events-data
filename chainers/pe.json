@@ -2,32 +2,32 @@
     "success": true,
     "data": {
         "event": {
-            "id": "69c5445260e05b0c10ddfde5",
-            "code": "charlottes_secret_pe2026",
+            "id": "69d7991ebf5efeb280b9da82",
+            "code": "hidden_glade_pe2026",
             "title": {
-                "en": "Charlotte's Secret",
-                "es": "El secreto de Charlotte",
-                "pt": "O Segredo de Charlotte"
+                "en": "The Hidden Glade",
+                "es": "El Claro Oculto",
+                "pt": "A Clareira Oculta"
             },
             "description": {
-                "en": "Charlotte stumbles upon something unusual hidden beneath the soil — a stash of strange and mysterious seeds.",
-                "es": "Charlotte se topa con algo insólito escondido bajo la tierra: un alijo de semillas extrañas y misteriosas.",
-                "pt": "Charlotte se depara com algo incomum escondido sob o solo — um estoque de sementes estranhas e misteriosas."
+                "en": "Peppa Prime spots some mysterious uncommon spring seeds. Follow her and collect new and unique seeds.",
+                "es": "Peppa Prime descubre unas misteriosas semillas de primavera poco comunes. Síguela y recolecta semillas nuevas y únicas.",
+                "pt": "Peppa Prime encontra algumas misteriosas sementes de primavera incomuns. Siga-a e colete sementes novas e únicas."
             },
-            "endDate": "2026-03-29T23:59:00.000Z",
+            "endDate": "2026-04-12T23:59:00.000Z",
             "maxMultiplier": 1000000,
             "maxLevel": 20,
             "media": {
                 "backgroundImageURL": {
-                    "en": "https://static.chainers.io/media/pe/events/background-en-1774535762652.png",
-                    "es": "https://static.chainers.io/media/pe/events/background-es-1774535762809.png",
-                    "pt": "https://static.chainers.io/media/pe/events/background-pt-1774535762887.png"
+                    "en": "https://static.chainers.io/media/pe/events/background-en-1775737118859.png",
+                    "es": "https://static.chainers.io/media/pe/events/background-es-1775737118924.png",
+                    "pt": "https://static.chainers.io/media/pe/events/background-pt-1775737118958.png"
                 }
             }
         },
         "rewards": [
             {
-                "code": "charlottes_secret_pe2026-1lvl-booster-charlottes_secret_pe2026_reward_1",
+                "code": "hidden_glade_pe2026-1lvl-booster-charlottes_secret_pe2026_reward_1",
                 "requiredLevel": 1,
                 "count": 1,
                 "itemID": "69c535fac4e3799e70404921",
@@ -43,8 +43,24 @@
                 "isFeatured": false
             },
             {
-                "code": "charlottes_secret_pe2026-2lvl-booster-charlottes_secret_pe2026_reward_2",
+                "code": "hidden_glade_pe2026-2lvl-booster-hidden_glade_pe2026_reward_2",
                 "requiredLevel": 2,
+                "count": 1,
+                "itemID": "69d7a59cbf5efeb280b9e045",
+                "itemCode": "hidden_glade_pe2026_reward_2",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "GROWTH FERTILIZER",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/common/preview.png?v=1709042580935",
+                    "previewCount": "5",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "hidden_glade_pe2026-3lvl-booster-charlottes_secret_pe2026_reward_2",
+                "requiredLevel": 3,
                 "count": 1,
                 "itemID": "69c5362e60e05b0c10ddf0a6",
                 "itemCode": "charlottes_secret_pe2026_reward_2",
@@ -59,39 +75,23 @@
                 "isFeatured": false
             },
             {
-                "code": "charlottes_secret_pe2026-3lvl-booster-charlottes_secret_pe2026_reward_3",
-                "requiredLevel": 3,
-                "count": 1,
-                "itemID": "69c53652c4e3799e704049c3",
-                "itemCode": "charlottes_secret_pe2026_reward_3",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "GROWTH FERTILIZER",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/common/preview.png?v=1709042580935",
-                    "previewCount": "3",
-                    "previewDescription": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "charlottes_secret_pe2026-4lvl-booster-charlottes_secret_pe2026_reward_4",
+                "code": "hidden_glade_pe2026-4lvl-booster-charlottes_secret_pe2026_reward_18",
                 "requiredLevel": 4,
                 "count": 1,
-                "itemID": "69c5368060e05b0c10ddf10e",
-                "itemCode": "charlottes_secret_pe2026_reward_4",
+                "itemID": "69c5381f60e05b0c10ddf439",
+                "itemCode": "charlottes_secret_pe2026_reward_18",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "Rookie dasher",
+                "customTitle": "Charlotte",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/deers/common/preview.png?v=1766068988159",
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/piggies/common/preview.png?v=1760615289240",
                     "previewCount": "1",
                     "previewDescription": ""
                 },
                 "isFeatured": true
             },
             {
-                "code": "charlottes_secret_pe2026-5lvl-booster-charlottes_secret_pe2026_reward_5",
+                "code": "hidden_glade_pe2026-5lvl-booster-charlottes_secret_pe2026_reward_5",
                 "requiredLevel": 5,
                 "count": 1,
                 "itemID": "69c5369bc4e3799e70404a83",
@@ -107,55 +107,55 @@
                 "isFeatured": false
             },
             {
-                "code": "charlottes_secret_pe2026-6lvl-booster-charlottes_secret_pe2026_reward_6",
+                "code": "hidden_glade_pe2026-6lvl-booster-charlottes_secret_pe2026_reward_16",
                 "requiredLevel": 6,
                 "count": 1,
-                "itemID": "69c536bc60e05b0c10ddf1c7",
-                "itemCode": "charlottes_secret_pe2026_reward_6",
+                "itemID": "69c54ac160e05b0c10de1365",
+                "itemCode": "charlottes_secret_pe2026_reward_16",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "LEGENDARY GROWTH FERTILIZER",
+                "customTitle": "Gomphrena seeds",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/legendary/preview.png?v=1752764673781",
-                    "previewCount": "5",
-                    "previewDescription": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "charlottes_secret_pe2026-7lvl-booster-charlottes_secret_pe2026_reward_7",
-                "requiredLevel": 7,
-                "count": 1,
-                "itemID": "69c536d9c4e3799e70404b38",
-                "itemCode": "charlottes_secret_pe2026_reward_7",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "WOOD PLOT",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/basic/uncommon/preview.png?v=1708363019810",
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/gomphrena/common/preview.png?v=1774536709786",
                     "previewCount": "1",
                     "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "charlottes_secret_pe2026-8lvl-booster-charlottes_secret_pe2026_reward_8",
+                "code": "hidden_glade_pe2026-7lvl-booster-ascent_of_pierita_pe2026_reward_14",
+                "requiredLevel": 7,
+                "count": 1,
+                "itemID": "69b19cacf789f87fecafa7f6",
+                "itemCode": "ascent_of_pierita_pe2026_reward_14",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "LEGENDARY GROWTH FERTILIZER",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/legendary/preview.png?v=1752764673781",
+                    "previewCount": "10",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "hidden_glade_pe2026-8lvl-booster-hidden_glade_pe2026_reward_11",
                 "requiredLevel": 8,
                 "count": 1,
-                "itemID": "69c54a9360e05b0c10de12c1",
-                "itemCode": "charlottes_secret_pe2026_reward_8",
+                "itemID": "69d7a05661e2cf5fbcf97f14",
+                "itemCode": "hidden_glade_pe2026_reward_11",
                 "itemType": "booster",
                 "currency": "",
                 "customTitle": "Lavender seeds",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/lavender/common/preview.png?v=1774536709787",
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/lavender/uncommon/preview.png?v=1774536709787",
                     "previewCount": "1",
                     "previewDescription": ""
                 },
                 "isFeatured": true
             },
             {
-                "code": "charlottes_secret_pe2026-9lvl-booster-charlottes_secret_pe2026_reward_9",
+                "code": "hidden_glade_pe2026-9lvl-booster-charlottes_secret_pe2026_reward_9",
                 "requiredLevel": 9,
                 "count": 1,
                 "itemID": "69c5370660e05b0c10ddf257",
@@ -171,55 +171,55 @@
                 "isFeatured": false
             },
             {
-                "code": "charlottes_secret_pe2026-10lvl-booster-charlottes_secret_pe2026_reward_10",
+                "code": "hidden_glade_pe2026-10lvl-booster-charlottes_secret_pe2026_reward_8",
                 "requiredLevel": 10,
                 "count": 1,
-                "itemID": "69c5372d60e05b0c10ddf2c1",
-                "itemCode": "charlottes_secret_pe2026_reward_10",
+                "itemID": "69c54a9360e05b0c10de12c1",
+                "itemCode": "charlottes_secret_pe2026_reward_8",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "GROWTH FERTILIZER",
+                "customTitle": "Lavender seeds",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/common/preview.png?v=1709042580935",
-                    "previewCount": "10",
-                    "previewDescription": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "charlottes_secret_pe2026-11lvl-booster-charlottes_secret_pe2026_reward_4",
-                "requiredLevel": 11,
-                "count": 1,
-                "itemID": "69c5368060e05b0c10ddf10e",
-                "itemCode": "charlottes_secret_pe2026_reward_4",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Rookie dasher",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/deers/common/preview.png?v=1766068988159",
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/lavender/common/preview.png?v=1774536709787",
                     "previewCount": "1",
                     "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "charlottes_secret_pe2026-12lvl-booster-charlottes_secret_pe2026_reward_12",
+                "code": "hidden_glade_pe2026-11lvl-booster-hidden_glade_pe2026_reward_8",
+                "requiredLevel": 11,
+                "count": 1,
+                "itemID": "69d791e4bf5efeb280b9d1da",
+                "itemCode": "hidden_glade_pe2026_reward_8",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "GROWTH FERTILIZER",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/common/preview.png?v=1709042580935",
+                    "previewCount": "15",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "hidden_glade_pe2026-12lvl-booster-hidden_glade_pe2026_reward_12",
                 "requiredLevel": 12,
                 "count": 1,
-                "itemID": "69c54aa7c4e3799e704065b2",
-                "itemCode": "charlottes_secret_pe2026_reward_12",
+                "itemID": "69d7a08abf5efeb280b9dca0",
+                "itemCode": "hidden_glade_pe2026_reward_12",
                 "itemType": "booster",
                 "currency": "",
                 "customTitle": "Jasmine seeds",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/jasmine/common/preview.png?v=1774536709786",
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/jasmine/uncommon/preview.png?v=1774536709787",
                     "previewCount": "1",
                     "previewDescription": ""
                 },
                 "isFeatured": true
             },
             {
-                "code": "charlottes_secret_pe2026-13lvl-booster-charlottes_secret_pe2026_reward_13",
+                "code": "hidden_glade_pe2026-13lvl-booster-charlottes_secret_pe2026_reward_13",
                 "requiredLevel": 13,
                 "count": 1,
                 "itemID": "69c537a1c4e3799e70404c1b",
@@ -235,71 +235,71 @@
                 "isFeatured": false
             },
             {
-                "code": "charlottes_secret_pe2026-14lvl-booster-charlottes_secret_pe2026_reward_14",
+                "code": "hidden_glade_pe2026-14lvl-booster-charlottes_secret_pe2026_reward_12",
                 "requiredLevel": 14,
                 "count": 1,
-                "itemID": "69c537e0c4e3799e70404cb3",
-                "itemCode": "charlottes_secret_pe2026_reward_14",
+                "itemID": "69c54aa7c4e3799e704065b2",
+                "itemCode": "charlottes_secret_pe2026_reward_12",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "LEGENDARY GROWTH FERTILIZER",
+                "customTitle": "Jasmine seeds",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/legendary/preview.png?v=1752764673781",
-                    "previewCount": "15",
-                    "previewDescription": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "charlottes_secret_pe2026-15lvl-booster-charlottes_secret_pe2026_reward_4",
-                "requiredLevel": 15,
-                "count": 1,
-                "itemID": "69c5368060e05b0c10ddf10e",
-                "itemCode": "charlottes_secret_pe2026_reward_4",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Rookie dasher",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/deers/common/preview.png?v=1766068988159",
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/jasmine/common/preview.png?v=1774536709786",
                     "previewCount": "1",
                     "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "charlottes_secret_pe2026-16lvl-booster-charlottes_secret_pe2026_reward_16",
+                "code": "hidden_glade_pe2026-15lvl-booster-hidden_glade_pe2026_reward_15",
+                "requiredLevel": 15,
+                "count": 1,
+                "itemID": "69d7920261e2cf5fbcf97548",
+                "itemCode": "hidden_glade_pe2026_reward_15",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "LEGENDARY GROWTH FERTILIZER",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/legendary/preview.png?v=1752764673781",
+                    "previewCount": "20",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "hidden_glade_pe2026-16lvl-booster-hidden_glade_pe2026_reward_16",
                 "requiredLevel": 16,
                 "count": 1,
-                "itemID": "69c54ac160e05b0c10de1365",
-                "itemCode": "charlottes_secret_pe2026_reward_16",
+                "itemID": "69d7a0b161e2cf5fbcf97fa4",
+                "itemCode": "hidden_glade_pe2026_reward_16",
                 "itemType": "booster",
                 "currency": "",
                 "customTitle": "Gomphrena seeds",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/gomphrena/common/preview.png?v=1774536709786",
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/gomphrena/uncommon/preview.png?v=1774536709786",
                     "previewCount": "1",
                     "previewDescription": "max bp/min: 829"
                 },
                 "isFeatured": true
             },
             {
-                "code": "charlottes_secret_pe2026-17lvl-booster-charlottes_secret_pe2026_reward_17",
+                "code": "hidden_glade_pe2026-17lvl-booster-charlottes_secret_pe2026_reward_7",
                 "requiredLevel": 17,
                 "count": 1,
-                "itemID": "69c5380460e05b0c10ddf3f4",
-                "itemCode": "charlottes_secret_pe2026_reward_17",
+                "itemID": "69c536d9c4e3799e70404b38",
+                "itemCode": "charlottes_secret_pe2026_reward_7",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "PLASTIC PLOT",
+                "customTitle": "WOOD PLOT",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/basic/rare/preview.png?v=1708363019810",
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/basic/uncommon/preview.png?v=1708363019810",
                     "previewCount": "1",
                     "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "charlottes_secret_pe2026-18lvl-booster-charlottes_secret_pe2026_reward_18",
+                "code": "hidden_glade_pe2026-18lvl-booster-charlottes_secret_pe2026_reward_18",
                 "requiredLevel": 18,
                 "count": 1,
                 "itemID": "69c5381f60e05b0c10ddf439",
@@ -315,32 +315,32 @@
                 "isFeatured": false
             },
             {
-                "code": "charlottes_secret_pe2026-19lvl-booster-charlottes_secret_pe2026_reward_19",
+                "code": "hidden_glade_pe2026-19lvl-booster-charlottes_secret_pe2026_reward_17",
                 "requiredLevel": 19,
                 "count": 1,
-                "itemID": "69c53838c4e3799e70404df3",
-                "itemCode": "charlottes_secret_pe2026_reward_19",
+                "itemID": "69c5380460e05b0c10ddf3f4",
+                "itemCode": "charlottes_secret_pe2026_reward_17",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "Prancer scout",
+                "customTitle": "PLASTIC PLOT",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/deers/uncommon/preview.png?v=1766068988159",
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/basic/rare/preview.png?v=1708363019810",
                     "previewCount": "1",
                     "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "charlottes_secret_pe2026-20lvl-booster-charlottes_secret_pe2026_reward_18",
+                "code": "hidden_glade_pe2026-20lvl-booster-valentine_pe_2026_reward_15",
                 "requiredLevel": 20,
                 "count": 1,
-                "itemID": "69c5381f60e05b0c10ddf439",
-                "itemCode": "charlottes_secret_pe2026_reward_18",
+                "itemID": "698dc7481731f56d604b248e",
+                "itemCode": "valentine_pe_2026_reward_15",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "Charlotte",
+                "customTitle": "Peppa Prime",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/piggies/common/preview.png?v=1760615289240",
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/piggies/uncommon/preview.png?v=1763129500081",
                     "previewCount": "1",
                     "previewDescription": ""
                 },
@@ -350,103 +350,103 @@
         "levelsConfig": [
             {
                 "level": 1,
-                "requiredXp": 750,
-                "levelXp": 750
+                "requiredXp": 945,
+                "levelXp": 945
             },
             {
                 "level": 2,
-                "requiredXp": 1290,
-                "levelXp": 540
+                "requiredXp": 1590,
+                "levelXp": 645
             },
             {
                 "level": 3,
-                "requiredXp": 2720,
-                "levelXp": 1430
+                "requiredXp": 3345,
+                "levelXp": 1755
             },
             {
                 "level": 4,
-                "requiredXp": 5640,
-                "levelXp": 2920
+                "requiredXp": 6930,
+                "levelXp": 3585
             },
             {
                 "level": 5,
-                "requiredXp": 8360,
-                "levelXp": 2720
+                "requiredXp": 10185,
+                "levelXp": 3255
             },
             {
                 "level": 6,
-                "requiredXp": 10310,
-                "levelXp": 1950
+                "requiredXp": 12390,
+                "levelXp": 2205
             },
             {
                 "level": 7,
-                "requiredXp": 15490,
-                "levelXp": 5180
+                "requiredXp": 18405,
+                "levelXp": 6015
             },
             {
                 "level": 8,
-                "requiredXp": 26070,
-                "levelXp": 10580
+                "requiredXp": 30675,
+                "levelXp": 12270
             },
             {
                 "level": 9,
-                "requiredXp": 35930,
-                "levelXp": 9860
+                "requiredXp": 41790,
+                "levelXp": 11115
             },
             {
                 "level": 10,
-                "requiredXp": 43010,
-                "levelXp": 7080
+                "requiredXp": 49350,
+                "levelXp": 7560
             },
             {
                 "level": 11,
-                "requiredXp": 61800,
-                "levelXp": 18790
+                "requiredXp": 69915,
+                "levelXp": 20565
             },
             {
                 "level": 12,
-                "requiredXp": 100170,
-                "levelXp": 38370
+                "requiredXp": 111870,
+                "levelXp": 41955
             },
             {
                 "level": 13,
-                "requiredXp": 135950,
-                "levelXp": 35780
+                "requiredXp": 149910,
+                "levelXp": 38040
             },
             {
                 "level": 14,
-                "requiredXp": 161620,
-                "levelXp": 25670
+                "requiredXp": 175770,
+                "levelXp": 25860
             },
             {
                 "level": 15,
-                "requiredXp": 229750,
-                "levelXp": 68130
+                "requiredXp": 246120,
+                "levelXp": 70350
             },
             {
                 "level": 16,
-                "requiredXp": 368910,
-                "levelXp": 139160
+                "requiredXp": 389640,
+                "levelXp": 143520
             },
             {
                 "level": 17,
-                "requiredXp": 498670,
-                "levelXp": 129760
+                "requiredXp": 519765,
+                "levelXp": 130125
             },
             {
                 "level": 18,
-                "requiredXp": 591780,
-                "levelXp": 93110
+                "requiredXp": 608250,
+                "levelXp": 88485
             },
             {
                 "level": 19,
-                "requiredXp": 838890,
-                "levelXp": 247110
+                "requiredXp": 848925,
+                "levelXp": 240675
             },
             {
                 "level": 20,
-                "requiredXp": 1343580,
-                "levelXp": 504690
+                "requiredXp": 1339890,
+                "levelXp": 490965
             }
         ]
     }
