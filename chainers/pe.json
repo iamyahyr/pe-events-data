@@ -1,114 +1,474 @@
 {
     "success": true,
-    "data": [
-        {
-            "id": "69ea03c1fdb0883171454c64",
-            "code": "market_offer_purchased",
+    "data": {
+        "event": {
+            "id": "69ea03c1a1b9780c486d52dc",
+            "code": "mcswines_signal_pe2026",
             "title": {
-                "en": "Spend 1 CFB in the store",
-                "es": "Gasta 1 CFB en de la tienda",
-                "pt": "Gaste 1 CFB da loja"
+                "en": "McSwineʼs Signal",
+                "es": "La Señal de McSwine",
+                "pt": "O Sinal de McSwine"
             },
             "description": {
-                "en": "",
-                "es": "",
-                "pt": ""
+                "en": "Join McSwine on a journey through the continuum and collect rare spring seeds.",
+                "es": "Únete a McSwine en un viaje a través del continuo y recolecta semillas de primavera raras.",
+                "pt": "Junte-se a McSwine em uma jornada pelo contínuo e colete sementes de primavera raras."
             },
-            "xpReward": 9,
-            "amount": 1000000000,
-            "sort": 0,
-            "additionalData": {
-                "currency": "CFB",
-                "customTitle": "CFB"
-            },
+            "endDate": "2026-04-26T23:59:00.000Z",
+            "maxMultiplier": 1000000,
+            "maxLevel": 21,
             "media": {
-                "iconURL": "https://static.chainers.io/media/progressionEvents/tasks/Shop.png?v=1.0"
-            },
-            "triggerFunction": "redirectToMarket",
-            "progressionEventsID": "69ea03c1a1b9780c486d52dc"
+                "backgroundImageURL": {
+                    "en": "https://static.chainers.io/media/pe/events/background-en-1776944065675.png",
+                    "es": "https://static.chainers.io/media/pe/events/background-es-1776944065745.png",
+                    "pt": "https://static.chainers.io/media/pe/events/background-pt-1776944065765.png"
+                }
+            }
         },
-        {
-            "id": "69ea03c1fdb0883171454c65",
-            "code": "crafting_completed",
-            "title": {
-                "en": "Spend 1 CFB on merge items",
-                "es": "Gasta 1 CFB en artículos de fusión",
-                "pt": "Gaste 1 CFB em itens de fusão"
+        "rewards": [
+            {
+                "code": "mcswines_signal_pe2026-1lvl-booster-charlottes_secret_pe2026_reward_1",
+                "requiredLevel": 1,
+                "count": 1,
+                "itemID": "69c535fac4e3799e70404921",
+                "itemCode": "charlottes_secret_pe2026_reward_1",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "TOMATO SEED",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/tomato/common/preview.png?v=1765456735579",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
             },
-            "description": {
-                "en": "",
-                "es": "",
-                "pt": ""
+            {
+                "code": "mcswines_signal_pe2026-2lvl-booster-dragon_sentinels_pe_2026_reward_1",
+                "requiredLevel": 2,
+                "count": 1,
+                "itemID": "699341afb7ed98dd19cd40f8",
+                "itemCode": "dragon_sentinels_pe_2026_reward_1",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "GROWTH FERTILIZER",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/common/preview.png?v=1709042580935",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
             },
-            "xpReward": 10,
-            "amount": 1000000000,
-            "sort": 0,
-            "additionalData": {
-                "currency": "CFB",
-                "customTitle": "CFB"
+            {
+                "code": "mcswines_signal_pe2026-3lvl-booster-charlottes_secret_pe2026_reward_7",
+                "requiredLevel": 3,
+                "count": 1,
+                "itemID": "69c536d9c4e3799e70404b38",
+                "itemCode": "charlottes_secret_pe2026_reward_7",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "WOOD PLOT",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/basic/uncommon/preview.png?v=1708363019810",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": true
             },
-            "media": {
-                "iconURL": "https://static.chainers.io/media/progressionEvents/tasks/Merge.png?v=1.0"
+            {
+                "code": "mcswines_signal_pe2026-4lvl-booster-mcswines_signal_pe2026_reward_4",
+                "requiredLevel": 4,
+                "count": 1,
+                "itemID": "69e9fc27250f7c2f8b340d97",
+                "itemCode": "mcswines_signal_pe2026_reward_4",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "LEGENDARY GROWTH FERTILIZER",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/legendary/preview.png?v=1752764673781",
+                    "previewCount": "2",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
             },
-            "triggerFunction": "redirectToFarm",
-            "progressionEventsID": "69ea03c1a1b9780c486d52dc"
-        },
-        {
-            "id": "69ea03c1fdb0883171454c66",
-            "code": "game_ended",
-            "title": {
-                "en": "Win Chainers Dreams 1 times",
-                "es": "Gana Chainers Dreams 1 veces",
-                "pt": "Vença Chainers Dreams 1 vezes"
+            {
+                "code": "mcswines_signal_pe2026-5lvl-booster-charlottes_secret_pe2026_reward_16",
+                "requiredLevel": 5,
+                "count": 1,
+                "itemID": "69c54ac160e05b0c10de1365",
+                "itemCode": "charlottes_secret_pe2026_reward_16",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Gomphrena seeds",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/gomphrena/common/preview.png?v=1774536709786",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
             },
-            "description": {
-                "en": "",
-                "es": "",
-                "pt": ""
+            {
+                "code": "mcswines_signal_pe2026-6lvl-booster-charlottes_secret_pe2026_reward_18",
+                "requiredLevel": 6,
+                "count": 1,
+                "itemID": "69c5381f60e05b0c10ddf439",
+                "itemCode": "charlottes_secret_pe2026_reward_18",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Charlotte",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/piggies/common/preview.png?v=1760615289240",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": true
             },
-            "xpReward": 200,
-            "amount": 1,
-            "sort": 0,
-            "additionalData": {
-                "customTitle": "Chainers Dreams",
-                "gameCode": "shooter",
-                "status": 3
+            {
+                "code": "mcswines_signal_pe2026-7lvl-booster-mcswines_signal_pe2026_reward_7",
+                "requiredLevel": 7,
+                "count": 1,
+                "itemID": "69e9fc3b250f7c2f8b340dda",
+                "itemCode": "mcswines_signal_pe2026_reward_7",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "GROWTH FERTILIZER",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/common/preview.png?v=1709042580935",
+                    "previewCount": "2",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
             },
-            "media": {
-                "iconURL": "https://static.chainers.io/media/progressionEvents/tasks/Dreams.png?v=1.0"
+            {
+                "code": "mcswines_signal_pe2026-8lvl-booster-charlottes_secret_pe2026_reward_8",
+                "requiredLevel": 8,
+                "count": 1,
+                "itemID": "69c54a9360e05b0c10de12c1",
+                "itemCode": "charlottes_secret_pe2026_reward_8",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Lavender seeds",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/lavender/common/preview.png?v=1774536709787",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
             },
-            "triggerFunction": "redirectToGames",
-            "progressionEventsID": "69ea03c1a1b9780c486d52dc"
-        },
-        {
-            "id": "69ea03c1fdb0883171454c67",
-            "code": "farm_fertilizer_used",
-            "title": {
-                "en": "Use any fertilizer 1 times on the farm",
-                "es": "Usa cualquier fertilizante 1 vez en la granja",
-                "pt": "Use qualquer fertilizante 1 vez na fazenda"
+            {
+                "code": "mcswines_signal_pe2026-9lvl-booster-mcswines_signal_pe2026_reward_9",
+                "requiredLevel": 9,
+                "count": 1,
+                "itemID": "69e9fc76a1b9780c486d50c9",
+                "itemCode": "mcswines_signal_pe2026_reward_9",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Gomphrena seeds",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/gomphrena/rare/preview.png?v=1774536709786",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": true
             },
-            "description": {
-                "en": "",
-                "es": "",
-                "pt": ""
+            {
+                "code": "mcswines_signal_pe2026-10lvl-booster-legacy_of_chainerys_pe2026_reward_9",
+                "requiredLevel": 10,
+                "count": 1,
+                "itemID": "69a03a1878f2f667638e20b5",
+                "itemCode": "legacy_of_chainerys_pe2026_reward_9",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "LEGENDARY GROWTH FERTILIZER",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/legendary/preview.png?v=1752764673781",
+                    "previewCount": "3",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
             },
-            "xpReward": 8,
-            "amount": 1,
-            "sort": 0,
-            "additionalData": {
-                "itemCode": [
-                    "legendary_fertilizer",
-                    "common_fertilizer"
-                ],
-                "customTitle": "any fertilizer"
+            {
+                "code": "mcswines_signal_pe2026-11lvl-booster-charlottes_secret_pe2026_reward_12",
+                "requiredLevel": 11,
+                "count": 1,
+                "itemID": "69c54aa7c4e3799e704065b2",
+                "itemCode": "charlottes_secret_pe2026_reward_12",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Jasmine seeds",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/jasmine/common/preview.png?v=1774536709786",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
             },
-            "media": {
-                "iconURL": "https://static.chainers.io/media/progressionEvents/tasks/Fertilizer.png?v=1.0"
+            {
+                "code": "mcswines_signal_pe2026-12lvl-booster-valentine_pe_2026_reward_15",
+                "requiredLevel": 12,
+                "count": 1,
+                "itemID": "698dc7481731f56d604b248e",
+                "itemCode": "valentine_pe_2026_reward_15",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Peppa Prime",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/piggies/uncommon/preview.png?v=1763129500081",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": true
             },
-            "triggerFunction": "redirectToFarm",
-            "progressionEventsID": "69ea03c1a1b9780c486d52dc"
-        }
-    ],
-    "error": ""
+            {
+                "code": "mcswines_signal_pe2026-13lvl-booster-charlottes_secret_pe2026_reward_3",
+                "requiredLevel": 13,
+                "count": 1,
+                "itemID": "69c53652c4e3799e704049c3",
+                "itemCode": "charlottes_secret_pe2026_reward_3",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "GROWTH FERTILIZER",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/common/preview.png?v=1709042580935",
+                    "previewCount": "3",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "mcswines_signal_pe2026-14lvl-booster-hidden_glade_pe2026_reward_16",
+                "requiredLevel": 14,
+                "count": 1,
+                "itemID": "69d7a0b161e2cf5fbcf97fa4",
+                "itemCode": "hidden_glade_pe2026_reward_16",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Gomphrena seeds",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/gomphrena/uncommon/preview.png?v=1774536709786",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "mcswines_signal_pe2026-15lvl-booster-mcswines_signal_pe2026_reward_15",
+                "requiredLevel": 15,
+                "count": 1,
+                "itemID": "69e9fc93a1b9780c486d5132",
+                "itemCode": "mcswines_signal_pe2026_reward_15",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Lavender seeds",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/lavender/rare/preview.png?v=1774536709787",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": true
+            },
+            {
+                "code": "mcswines_signal_pe2026-16lvl-booster-mcswines_signal_pe2026_reward_16",
+                "requiredLevel": 16,
+                "count": 1,
+                "itemID": "69e9fcc8250f7c2f8b340eb7",
+                "itemCode": "mcswines_signal_pe2026_reward_16",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "LEGENDARY GROWTH FERTILIZER",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/legendary/preview.png?v=1752764673781",
+                    "previewCount": "4",
+                    "previewDescription": "max bp/min: 829"
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "mcswines_signal_pe2026-17lvl-booster-hidden_glade_pe2026_reward_12",
+                "requiredLevel": 17,
+                "count": 1,
+                "itemID": "69d7a08abf5efeb280b9dca0",
+                "itemCode": "hidden_glade_pe2026_reward_12",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Jasmine seeds",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/jasmine/uncommon/preview.png?v=1774536709787",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "mcswines_signal_pe2026-18lvl-booster-valentine_pe_2026_reward_18",
+                "requiredLevel": 18,
+                "count": 1,
+                "itemID": "698dc78ac917a9fb2ecc3bab",
+                "itemCode": "valentine_pe_2026_reward_18",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Marty McSwine",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/piggies/rare/preview.png?v=1765456665168",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": true
+            },
+            {
+                "code": "mcswines_signal_pe2026-19lvl-booster-mcswines_signal_pe2026_reward_19",
+                "requiredLevel": 19,
+                "count": 1,
+                "itemID": "69e9fcefa1b9780c486d51c2",
+                "itemCode": "mcswines_signal_pe2026_reward_19",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "GROWTH FERTILIZER",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/common/preview.png?v=1709042580935",
+                    "previewCount": "4",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "mcswines_signal_pe2026-20lvl-booster-hidden_glade_pe2026_reward_11",
+                "requiredLevel": 20,
+                "count": 1,
+                "itemID": "69d7a05661e2cf5fbcf97f14",
+                "itemCode": "hidden_glade_pe2026_reward_11",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Lavender seeds",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/lavender/uncommon/preview.png?v=1774536709787",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "mcswines_signal_pe2026-21lvl-booster-mcswines_signal_pe2026_reward_20",
+                "requiredLevel": 21,
+                "count": 1,
+                "itemID": "69e9fd09a1b9780c486d5218",
+                "itemCode": "mcswines_signal_pe2026_reward_20",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Jasmine seeds",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/jasmine/rare/preview.png?v=1774536709787",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            }
+        ],
+        "levelsConfig": [
+            {
+                "level": 1,
+                "requiredXp": 525,
+                "levelXp": 525
+            },
+            {
+                "level": 2,
+                "requiredXp": 1230,
+                "levelXp": 705
+            },
+            {
+                "level": 3,
+                "requiredXp": 4059,
+                "levelXp": 2829
+            },
+            {
+                "level": 4,
+                "requiredXp": 5322,
+                "levelXp": 1263
+            },
+            {
+                "level": 5,
+                "requiredXp": 7014,
+                "levelXp": 1692
+            },
+            {
+                "level": 6,
+                "requiredXp": 13818,
+                "levelXp": 6804
+            },
+            {
+                "level": 7,
+                "requiredXp": 16857,
+                "levelXp": 3039
+            },
+            {
+                "level": 8,
+                "requiredXp": 20931,
+                "levelXp": 4074
+            },
+            {
+                "level": 9,
+                "requiredXp": 37305,
+                "levelXp": 16374
+            },
+            {
+                "level": 10,
+                "requiredXp": 44619,
+                "levelXp": 7314
+            },
+            {
+                "level": 11,
+                "requiredXp": 54420,
+                "levelXp": 9801
+            },
+            {
+                "level": 12,
+                "requiredXp": 93813,
+                "levelXp": 39393
+            },
+            {
+                "level": 13,
+                "requiredXp": 111408,
+                "levelXp": 17595
+            },
+            {
+                "level": 14,
+                "requiredXp": 134988,
+                "levelXp": 23580
+            },
+            {
+                "level": 15,
+                "requiredXp": 229776,
+                "levelXp": 94788
+            },
+            {
+                "level": 16,
+                "requiredXp": 272115,
+                "levelXp": 42339
+            },
+            {
+                "level": 17,
+                "requiredXp": 328848,
+                "levelXp": 56733
+            },
+            {
+                "level": 18,
+                "requiredXp": 556914,
+                "levelXp": 228066
+            },
+            {
+                "level": 19,
+                "requiredXp": 658785,
+                "levelXp": 101871
+            },
+            {
+                "level": 20,
+                "requiredXp": 795291,
+                "levelXp": 136506
+            },
+            {
+                "level": 21,
+                "requiredXp": 1344045,
+                "levelXp": 548754
+            }
+        ]
+    }
 }
