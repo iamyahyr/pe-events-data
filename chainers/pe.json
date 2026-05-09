@@ -2,49 +2,33 @@
     "success": true,
     "data": {
         "event": {
-            "id": "69ea03c1a1b9780c486d52dc",
-            "code": "mcswines_signal_pe2026",
+            "id": "69fc710b0cdf65bdbd65ea14",
+            "code": "valentines_discovery_pe2026",
             "title": {
-                "en": "McSwineʼs Signal",
-                "es": "La Señal de McSwine",
-                "pt": "O Sinal de McSwine"
+                "en": "Valentineʼs Discovery",
+                "es": "El hallazgo de Valentíne",
+                "pt": "A Descoberta de Valentine"
             },
             "description": {
-                "en": "Join McSwine on a journey through the continuum and collect rare spring seeds.",
-                "es": "Únete a McSwine en un viaje a través del continuo y recolecta semillas de primavera raras.",
-                "pt": "Junte-se a McSwine em uma jornada pelo contínuo e colete sementes de primavera raras."
+                "en": "Join Valentine on her discoveries and collect epic spring seeds and the incredible Max Peace.",
+                "es": "Únete a los descubrimientos de Valentine y recolecta semillas épicas de primavera y al increíble Max Peace.",
+                "pt": "Junte-se às descobertas de Valentine e colete sementes épicas de primavera e o incrível Max Peace."
             },
-            "endDate": "2026-04-26T23:59:00.000Z",
+            "endDate": "2026-05-10T23:59:00.000Z",
             "maxMultiplier": 1000000,
-            "maxLevel": 21,
+            "maxLevel": 24,
             "media": {
                 "backgroundImageURL": {
-                    "en": "https://static.chainers.io/media/pe/events/background-en-1776944065675.png",
-                    "es": "https://static.chainers.io/media/pe/events/background-es-1776944065745.png",
-                    "pt": "https://static.chainers.io/media/pe/events/background-pt-1776944065765.png"
+                    "en": "https://static.chainers.io/media/pe/events/background-en-1778156134213.png",
+                    "es": "https://static.chainers.io/media/pe/events/background-es-1778156134240.png",
+                    "pt": "https://static.chainers.io/media/pe/events/background-pt-1778156134267.png"
                 }
             }
         },
         "rewards": [
             {
-                "code": "mcswines_signal_pe2026-1lvl-booster-charlottes_secret_pe2026_reward_1",
+                "code": "valentines_discovery_pe2026-1lvl-booster-dragon_sentinels_pe_2026_reward_1",
                 "requiredLevel": 1,
-                "count": 1,
-                "itemID": "69c535fac4e3799e70404921",
-                "itemCode": "charlottes_secret_pe2026_reward_1",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "TOMATO SEED",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/tomato/common/preview.png?v=1765456735579",
-                    "previewCount": "1",
-                    "previewDescription": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "mcswines_signal_pe2026-2lvl-booster-dragon_sentinels_pe_2026_reward_1",
-                "requiredLevel": 2,
                 "count": 1,
                 "itemID": "699341afb7ed98dd19cd40f8",
                 "itemCode": "dragon_sentinels_pe_2026_reward_1",
@@ -59,104 +43,24 @@
                 "isFeatured": false
             },
             {
-                "code": "mcswines_signal_pe2026-3lvl-booster-charlottes_secret_pe2026_reward_7",
-                "requiredLevel": 3,
+                "code": "valentines_discovery_pe2026-2lvl-booster-dragon_sentinels_pe_2026_reward_4",
+                "requiredLevel": 2,
                 "count": 1,
-                "itemID": "69c536d9c4e3799e70404b38",
-                "itemCode": "charlottes_secret_pe2026_reward_7",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "WOOD PLOT",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/basic/uncommon/preview.png?v=1708363019810",
-                    "previewCount": "1",
-                    "previewDescription": ""
-                },
-                "isFeatured": true
-            },
-            {
-                "code": "mcswines_signal_pe2026-4lvl-booster-mcswines_signal_pe2026_reward_4",
-                "requiredLevel": 4,
-                "count": 1,
-                "itemID": "69e9fc27250f7c2f8b340d97",
-                "itemCode": "mcswines_signal_pe2026_reward_4",
+                "itemID": "69934351b7ed98dd19cd4278",
+                "itemCode": "dragon_sentinels_pe_2026_reward_4",
                 "itemType": "booster",
                 "currency": "",
                 "customTitle": "LEGENDARY GROWTH FERTILIZER",
                 "customMedia": {
                     "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/legendary/preview.png?v=1752764673781",
-                    "previewCount": "2",
-                    "previewDescription": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "mcswines_signal_pe2026-5lvl-booster-charlottes_secret_pe2026_reward_16",
-                "requiredLevel": 5,
-                "count": 1,
-                "itemID": "69c54ac160e05b0c10de1365",
-                "itemCode": "charlottes_secret_pe2026_reward_16",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Gomphrena seeds",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/gomphrena/common/preview.png?v=1774536709786",
                     "previewCount": "1",
                     "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "mcswines_signal_pe2026-6lvl-booster-charlottes_secret_pe2026_reward_18",
-                "requiredLevel": 6,
-                "count": 1,
-                "itemID": "69c5381f60e05b0c10ddf439",
-                "itemCode": "charlottes_secret_pe2026_reward_18",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Charlotte",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/piggies/common/preview.png?v=1760615289240",
-                    "previewCount": "1",
-                    "previewDescription": ""
-                },
-                "isFeatured": true
-            },
-            {
-                "code": "mcswines_signal_pe2026-7lvl-booster-mcswines_signal_pe2026_reward_7",
-                "requiredLevel": 7,
-                "count": 1,
-                "itemID": "69e9fc3b250f7c2f8b340dda",
-                "itemCode": "mcswines_signal_pe2026_reward_7",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "GROWTH FERTILIZER",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/common/preview.png?v=1709042580935",
-                    "previewCount": "2",
-                    "previewDescription": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "mcswines_signal_pe2026-8lvl-booster-charlottes_secret_pe2026_reward_8",
-                "requiredLevel": 8,
-                "count": 1,
-                "itemID": "69c54a9360e05b0c10de12c1",
-                "itemCode": "charlottes_secret_pe2026_reward_8",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "Lavender seeds",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/lavender/common/preview.png?v=1774536709787",
-                    "previewCount": "1",
-                    "previewDescription": ""
-                },
-                "isFeatured": false
-            },
-            {
-                "code": "mcswines_signal_pe2026-9lvl-booster-mcswines_signal_pe2026_reward_9",
-                "requiredLevel": 9,
+                "code": "valentines_discovery_pe2026-3lvl-booster-mcswines_signal_pe2026_reward_9",
+                "requiredLevel": 3,
                 "count": 1,
                 "itemID": "69e9fc76a1b9780c486d50c9",
                 "itemCode": "mcswines_signal_pe2026_reward_9",
@@ -168,27 +72,27 @@
                     "previewCount": "1",
                     "previewDescription": ""
                 },
-                "isFeatured": true
-            },
-            {
-                "code": "mcswines_signal_pe2026-10lvl-booster-legacy_of_chainerys_pe2026_reward_9",
-                "requiredLevel": 10,
-                "count": 1,
-                "itemID": "69a03a1878f2f667638e20b5",
-                "itemCode": "legacy_of_chainerys_pe2026_reward_9",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "LEGENDARY GROWTH FERTILIZER",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/legendary/preview.png?v=1752764673781",
-                    "previewCount": "3",
-                    "previewDescription": ""
-                },
                 "isFeatured": false
             },
             {
-                "code": "mcswines_signal_pe2026-11lvl-booster-charlottes_secret_pe2026_reward_12",
-                "requiredLevel": 11,
+                "code": "valentines_discovery_pe2026-4lvl-booster-valentines_discovery_pe2026_4",
+                "requiredLevel": 4,
+                "count": 1,
+                "itemID": "69fc67670fb68bf20ca6fd71",
+                "itemCode": "valentines_discovery_pe2026_4",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Lavender seeds",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/lavender/epic/preview.png?v=1774536709787",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": true
+            },
+            {
+                "code": "valentines_discovery_pe2026-5lvl-booster-charlottes_secret_pe2026_reward_12",
+                "requiredLevel": 5,
                 "count": 1,
                 "itemID": "69c54aa7c4e3799e704065b2",
                 "itemCode": "charlottes_secret_pe2026_reward_12",
@@ -203,39 +107,135 @@
                 "isFeatured": false
             },
             {
-                "code": "mcswines_signal_pe2026-12lvl-booster-valentine_pe_2026_reward_15",
-                "requiredLevel": 12,
+                "code": "valentines_discovery_pe2026-6lvl-booster-charlottes_secret_pe2026_reward_2",
+                "requiredLevel": 6,
                 "count": 1,
-                "itemID": "698dc7481731f56d604b248e",
-                "itemCode": "valentine_pe_2026_reward_15",
+                "itemID": "69c5362e60e05b0c10ddf0a6",
+                "itemCode": "charlottes_secret_pe2026_reward_2",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "Peppa Prime",
+                "customTitle": "CARDBOARD PLOT",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/piggies/uncommon/preview.png?v=1763129500081",
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/basic/common/preview.png?v=1708363019810",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "valentines_discovery_pe2026-7lvl-booster-mcswines_signal_pe2026_reward_20",
+                "requiredLevel": 7,
+                "count": 1,
+                "itemID": "69e9fd09a1b9780c486d5218",
+                "itemCode": "mcswines_signal_pe2026_reward_20",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Jasmine seeds",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/jasmine/rare/preview.png?v=1774536709787",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "valentines_discovery_pe2026-8lvl-booster-valentine_pe_2026_reward_18",
+                "requiredLevel": 8,
+                "count": 1,
+                "itemID": "698dc78ac917a9fb2ecc3bab",
+                "itemCode": "valentine_pe_2026_reward_18",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Marty McSwine",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/piggies/rare/preview.png?v=1765456665168",
                     "previewCount": "1",
                     "previewDescription": ""
                 },
                 "isFeatured": true
             },
             {
-                "code": "mcswines_signal_pe2026-13lvl-booster-charlottes_secret_pe2026_reward_3",
-                "requiredLevel": 13,
+                "code": "valentines_discovery_pe2026-9lvl-booster-charlottes_secret_pe2026_reward_16",
+                "requiredLevel": 9,
                 "count": 1,
-                "itemID": "69c53652c4e3799e704049c3",
-                "itemCode": "charlottes_secret_pe2026_reward_3",
+                "itemID": "69c54ac160e05b0c10de1365",
+                "itemCode": "charlottes_secret_pe2026_reward_16",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "GROWTH FERTILIZER",
+                "customTitle": "Gomphrena seeds",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/common/preview.png?v=1709042580935",
-                    "previewCount": "3",
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/gomphrena/common/preview.png?v=1774536709786",
+                    "previewCount": "1",
                     "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "mcswines_signal_pe2026-14lvl-booster-hidden_glade_pe2026_reward_16",
+                "code": "valentines_discovery_pe2026-10lvl-booster-valentines_discovery_pe2026_10",
+                "requiredLevel": 10,
+                "count": 1,
+                "itemID": "69fc67800cdf65bdbd65e4e6",
+                "itemCode": "valentines_discovery_pe2026_10",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Marigold seed",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/marigold/legendary/preview.png?v=1759331118269",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "valentines_discovery_pe2026-11lvl-booster-mcswines_signal_pe2026_reward_15",
+                "requiredLevel": 11,
+                "count": 1,
+                "itemID": "69e9fc93a1b9780c486d5132",
+                "itemCode": "mcswines_signal_pe2026_reward_15",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Lavender seeds",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/lavender/rare/preview.png?v=1774536709787",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "valentines_discovery_pe2026-12lvl-booster-valentines_discovery_pe2026_12",
+                "requiredLevel": 12,
+                "count": 1,
+                "itemID": "69fc679a0fb68bf20ca6fe08",
+                "itemCode": "valentines_discovery_pe2026_12",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Jasmine seeds",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/jasmine/epic/preview.png?v=1774536709787",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": true
+            },
+            {
+                "code": "valentines_discovery_pe2026-13lvl-booster-charlottes_secret_pe2026_reward_8",
+                "requiredLevel": 13,
+                "count": 1,
+                "itemID": "69c54a9360e05b0c10de12c1",
+                "itemCode": "charlottes_secret_pe2026_reward_8",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Lavender seeds",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/lavender/common/preview.png?v=1774536709787",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "valentines_discovery_pe2026-14lvl-booster-hidden_glade_pe2026_reward_16",
                 "requiredLevel": 14,
                 "count": 1,
                 "itemID": "69d7a0b161e2cf5fbcf97fa4",
@@ -251,40 +251,56 @@
                 "isFeatured": false
             },
             {
-                "code": "mcswines_signal_pe2026-15lvl-booster-mcswines_signal_pe2026_reward_15",
+                "code": "valentines_discovery_pe2026-15lvl-booster-valentines_discovery_pe2026_15",
                 "requiredLevel": 15,
                 "count": 1,
-                "itemID": "69e9fc93a1b9780c486d5132",
-                "itemCode": "mcswines_signal_pe2026_reward_15",
+                "itemID": "69fc67b20fb68bf20ca6fe50",
+                "itemCode": "valentines_discovery_pe2026_15",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "Lavender seeds",
+                "customTitle": "Peas seed",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/lavender/rare/preview.png?v=1774536709787",
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/peas/epic/preview.png?v=1732119698977",
                     "previewCount": "1",
                     "previewDescription": ""
-                },
-                "isFeatured": true
-            },
-            {
-                "code": "mcswines_signal_pe2026-16lvl-booster-mcswines_signal_pe2026_reward_16",
-                "requiredLevel": 16,
-                "count": 1,
-                "itemID": "69e9fcc8250f7c2f8b340eb7",
-                "itemCode": "mcswines_signal_pe2026_reward_16",
-                "itemType": "booster",
-                "currency": "",
-                "customTitle": "LEGENDARY GROWTH FERTILIZER",
-                "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/legendary/preview.png?v=1752764673781",
-                    "previewCount": "4",
-                    "previewDescription": "max bp/min: 829"
                 },
                 "isFeatured": false
             },
             {
-                "code": "mcswines_signal_pe2026-17lvl-booster-hidden_glade_pe2026_reward_12",
+                "code": "valentines_discovery_pe2026-16lvl-booster-valentine_pe_2026_reward_21",
+                "requiredLevel": 16,
+                "count": 1,
+                "itemID": "698dd7251731f56d604b2855",
+                "itemCode": "valentine_pe_2026_reward_21",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Valentine",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/piggies/epic/preview.png?v=1770902719341",
+                    "previewCount": "1",
+                    "previewDescription": "max bp/min: 829"
+                },
+                "isFeatured": true
+            },
+            {
+                "code": "valentines_discovery_pe2026-17lvl-booster-valentines_discovery_pe2026_17",
                 "requiredLevel": 17,
+                "count": 1,
+                "itemID": "69fc67d00fb68bf20ca6fe98",
+                "itemCode": "valentines_discovery_pe2026_17",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Hyacinth seed",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/hyacinth/legendary/preview.png?v=1708363019808",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "valentines_discovery_pe2026-18lvl-booster-hidden_glade_pe2026_reward_12",
+                "requiredLevel": 18,
                 "count": 1,
                 "itemID": "69d7a08abf5efeb280b9dca0",
                 "itemCode": "hidden_glade_pe2026_reward_12",
@@ -299,40 +315,56 @@
                 "isFeatured": false
             },
             {
-                "code": "mcswines_signal_pe2026-18lvl-booster-valentine_pe_2026_reward_18",
-                "requiredLevel": 18,
+                "code": "valentines_discovery_pe2026-19lvl-booster-valentines_discovery_pe2026_19",
+                "requiredLevel": 19,
                 "count": 1,
-                "itemID": "698dc78ac917a9fb2ecc3bab",
-                "itemCode": "valentine_pe_2026_reward_18",
+                "itemID": "69fc67ed0cdf65bdbd65e61a",
+                "itemCode": "valentines_discovery_pe2026_19",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "Marty McSwine",
+                "customTitle": "Corn seed",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/beds/piggies/rare/preview.png?v=1765456665168",
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/corn/epic/preview.png?v=1732119698976",
+                    "previewCount": "1",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "valentines_discovery_pe2026-20lvl-booster-valentines_discovery_pe2026_20",
+                "requiredLevel": 20,
+                "count": 1,
+                "itemID": "69fc68050fb68bf20ca6ff58",
+                "itemCode": "valentines_discovery_pe2026_20",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Gomphrena seeds",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/gomphrena/epic/preview.png?v=1774536709786",
                     "previewCount": "1",
                     "previewDescription": ""
                 },
                 "isFeatured": true
             },
             {
-                "code": "mcswines_signal_pe2026-19lvl-booster-mcswines_signal_pe2026_reward_19",
-                "requiredLevel": 19,
+                "code": "valentines_discovery_pe2026-21lvl-booster-valentines_discovery_pe2026_21",
+                "requiredLevel": 21,
                 "count": 1,
-                "itemID": "69e9fcefa1b9780c486d51c2",
-                "itemCode": "mcswines_signal_pe2026_reward_19",
+                "itemID": "69fc68180cdf65bdbd65e6c5",
+                "itemCode": "valentines_discovery_pe2026_21",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "GROWTH FERTILIZER",
+                "customTitle": "Bamboo seed",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/fertilizers/basic/common/preview.png?v=1709042580935",
-                    "previewCount": "4",
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/bamboo/legendary/preview.png?v=1759331118269",
+                    "previewCount": "1",
                     "previewDescription": ""
                 },
                 "isFeatured": false
             },
             {
-                "code": "mcswines_signal_pe2026-20lvl-booster-hidden_glade_pe2026_reward_11",
-                "requiredLevel": 20,
+                "code": "valentines_discovery_pe2026-22lvl-booster-hidden_glade_pe2026_reward_11",
+                "requiredLevel": 22,
                 "count": 1,
                 "itemID": "69d7a05661e2cf5fbcf97f14",
                 "itemCode": "hidden_glade_pe2026_reward_11",
@@ -347,16 +379,32 @@
                 "isFeatured": false
             },
             {
-                "code": "mcswines_signal_pe2026-21lvl-booster-mcswines_signal_pe2026_reward_20",
-                "requiredLevel": 21,
+                "code": "valentines_discovery_pe2026-23lvl-booster-common_peacock_food",
+                "requiredLevel": 23,
                 "count": 1,
-                "itemID": "69e9fd09a1b9780c486d5218",
-                "itemCode": "mcswines_signal_pe2026_reward_20",
+                "itemID": "69fc68380fb68bf20ca6ffef",
+                "itemCode": "common_peacock_food",
                 "itemType": "booster",
                 "currency": "",
-                "customTitle": "Jasmine seeds",
+                "customTitle": "Peacock Food",
                 "customMedia": {
-                    "previewUrl": "https://static.chainers.io/media/farm/seeds/jasmine/rare/preview.png?v=1774536709787",
+                    "previewUrl": "https://static.chainers.io/media/farm/seeds/peacock_feather/common/preview.png?v=1778075209520",
+                    "previewCount": "10",
+                    "previewDescription": ""
+                },
+                "isFeatured": false
+            },
+            {
+                "code": "valentines_discovery_pe2026-24lvl-booster-valentines_discovery_pe2026_24",
+                "requiredLevel": 24,
+                "count": 1,
+                "itemID": "69fc684f0cdf65bdbd65e784",
+                "itemCode": "valentines_discovery_pe2026_24",
+                "itemType": "booster",
+                "currency": "",
+                "customTitle": "Max Peace",
+                "customMedia": {
+                    "previewUrl": "https://static.chainers.io/media/farm/beds/peacocks/common/preview.png?v=1778075231699",
                     "previewCount": "1",
                     "previewDescription": ""
                 },
@@ -366,108 +414,123 @@
         "levelsConfig": [
             {
                 "level": 1,
-                "requiredXp": 525,
-                "levelXp": 525
+                "requiredXp": 1008,
+                "levelXp": 1008
             },
             {
                 "level": 2,
-                "requiredXp": 1230,
-                "levelXp": 705
+                "requiredXp": 1776,
+                "levelXp": 768
             },
             {
                 "level": 3,
-                "requiredXp": 4059,
-                "levelXp": 2829
+                "requiredXp": 3408,
+                "levelXp": 1632
             },
             {
                 "level": 4,
-                "requiredXp": 5322,
-                "levelXp": 1263
+                "requiredXp": 6288,
+                "levelXp": 2880
             },
             {
                 "level": 5,
-                "requiredXp": 7014,
-                "levelXp": 1692
+                "requiredXp": 8928,
+                "levelXp": 2640
             },
             {
                 "level": 6,
-                "requiredXp": 13818,
-                "levelXp": 6804
+                "requiredXp": 10992,
+                "levelXp": 2064
             },
             {
                 "level": 7,
-                "requiredXp": 16857,
-                "levelXp": 3039
+                "requiredXp": 15288,
+                "levelXp": 4296
             },
             {
                 "level": 8,
-                "requiredXp": 20931,
-                "levelXp": 4074
+                "requiredXp": 22896,
+                "levelXp": 7608
             },
             {
                 "level": 9,
-                "requiredXp": 37305,
-                "levelXp": 16374
+                "requiredXp": 29880,
+                "levelXp": 6984
             },
             {
                 "level": 10,
-                "requiredXp": 44619,
-                "levelXp": 7314
+                "requiredXp": 35304,
+                "levelXp": 5424
             },
             {
                 "level": 11,
-                "requiredXp": 54420,
-                "levelXp": 9801
+                "requiredXp": 46656,
+                "levelXp": 11352
             },
             {
                 "level": 12,
-                "requiredXp": 93813,
-                "levelXp": 39393
+                "requiredXp": 66768,
+                "levelXp": 20112
             },
             {
                 "level": 13,
-                "requiredXp": 111408,
-                "levelXp": 17595
+                "requiredXp": 85224,
+                "levelXp": 18456
             },
             {
                 "level": 14,
-                "requiredXp": 134988,
-                "levelXp": 23580
+                "requiredXp": 99576,
+                "levelXp": 14352
             },
             {
                 "level": 15,
-                "requiredXp": 229776,
-                "levelXp": 94788
+                "requiredXp": 129576,
+                "levelXp": 30000
             },
             {
                 "level": 16,
-                "requiredXp": 272115,
-                "levelXp": 42339
+                "requiredXp": 182736,
+                "levelXp": 53160
             },
             {
                 "level": 17,
-                "requiredXp": 328848,
-                "levelXp": 56733
+                "requiredXp": 231504,
+                "levelXp": 48768
             },
             {
                 "level": 18,
-                "requiredXp": 556914,
-                "levelXp": 228066
+                "requiredXp": 269424,
+                "levelXp": 37920
             },
             {
                 "level": 19,
-                "requiredXp": 658785,
-                "levelXp": 101871
+                "requiredXp": 348696,
+                "levelXp": 79272
             },
             {
                 "level": 20,
-                "requiredXp": 795291,
-                "levelXp": 136506
+                "requiredXp": 489216,
+                "levelXp": 140520
             },
             {
                 "level": 21,
-                "requiredXp": 1344045,
-                "levelXp": 548754
+                "requiredXp": 618096,
+                "levelXp": 128880
+            },
+            {
+                "level": 22,
+                "requiredXp": 718344,
+                "levelXp": 100248
+            },
+            {
+                "level": 23,
+                "requiredXp": 927864,
+                "levelXp": 209520
+            },
+            {
+                "level": 24,
+                "requiredXp": 1299192,
+                "levelXp": 371328
             }
         ]
     }
